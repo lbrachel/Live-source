@@ -1,0 +1,111 @@
+{
+    "uuid": "64350b50-a810-4901-b86b-7a5106bdef2c", 
+    "title": "港澳台", 
+    "channels": [
+        {
+            "name": "凤凰中文HD", 
+            "url": "http://223.110.245.170/ott.js.chinamobile.com/PLTV/3/224/3221226922/index.m3u8"
+        }, 
+        {
+            "name": "凤凰中文HD", 
+            "url": "http://223.110.245.170/ott.js.chinamobile.com/PLTV/3/224/3221226977/index.m3u8"
+        }, 
+        {
+            "name": "凤凰资讯HD", 
+            "url": "http://223.110.245.170/ott.js.chinamobile.com/PLTV/3/224/3221226923/index.m3u8"
+        }, 
+        {
+            "name": "凤凰资讯HD", 
+            "url": "http://223.110.245.170/ott.js.chinamobile.com/PLTV/3/224/3221226980/index.m3u8"
+        }, 
+        {
+            "name": "凤凰香港HD", 
+            "url": "http://223.110.245.170/ott.js.chinamobile.com/PLTV/3/224/3221226975/index.m3u8"
+        },                 
+        {
+            "name": "SDETV", 
+            "url": "http://223.110.245.170/ott.js.chinamobile.com/PLTV/3/224/3221225614/index.m3u8"
+        }, 
+        {
+            "name": "凤凰资讯台", 
+            "url": "http://ott.fj.chinamobile.com/PLTV/88888888/224/3221225901/index.m3u8"
+        },
+        {
+            "name": "凤凰中文台", 
+            "url": "http://ott.fj.chinamobile.com/PLTV/88888888/224/3221225900/index.m3u8"
+        },
+        {
+            "name": "香港卫视", 
+            "url": "http://zhibo.hkstv.tv/livestream/zb2yhapo/playlist.m3u8"
+        },
+        {
+            "name": "澳门卫视", 
+            "url": "http://stream.mastvnet.com/MSTV/SD/live.m3u8"
+        },
+        {
+            "name": "东森新闻", 
+            "url": "http://60.250.23.14:18080/CtiNews/index.m3u8"
+        },
+        {
+            "name": "环球电视", 
+            "url": "http://live-cdn.xzxwhcb.com/hls/r86am856.m3u8"
+        },
+        {
+            "name": "寰宇新闻", 
+            "url": "http://pulllive-al.wasu.cn/live/1528461345367108.m3u8"
+        },
+        {
+            "name": "中天新闻", 
+            "url": "http://pulllive-al.wasu.cn/live/1528461345367101.m3u8"
+        }, 
+        {
+            "name": "好莱坞中文", 
+            "url": "http://10505.liveplay.myqcloud.com/live/10505_a1619dd9836811e791eae435c87f075e_550.m3u8"
+        }, 
+        {
+            "name": "年代新闻", 
+            "url": "http://60.250.23.14:18080/eranews/index.m3u8"
+        }, 
+        {
+            "name": "翡翠台", 
+            "url": "http://3737.liveplay.myqcloud.com/live/jade_900.m3u8"
+        }, 
+        {
+            "name": "三立台湾", 
+            "url": "http://125.227.35.176:18080/set/index.m3u8"
+        }, 
+        {
+            "name": "三立都会", 
+            "url": "http://60.250.23.14:18080/setcity/index.m3u8"
+        }, 
+        {
+            "name": "台视", 
+            "url": "https://skyking.unifieddeliverynetwork.net/Ericsson/twglive_1500k/chunklist.m3u8"
+        }, 
+        {
+            "name": "HBO强档", 
+            "url": "http://iss01.ott.net.tw:8090/live/coship_DCTV2291445940028640_1200.m3u8"
+        }, 
+        {
+            "name": "奥丫卫视", 
+            "url": "http://59.125.55.79:60001/60002.m3u8"
+        }, 
+        {
+            "name": "天映经典", 
+            "url": "http://59.125.55.79:60001/60003.m3u8"
+        }, 
+        {
+            "name": "华纳电影", 
+            "url": "http://59.125.55.79:60001/60004.m3u8"
+        }, 
+        {
+            "name": "探索台", 
+            "url": "http://59.125.55.79:9009/9009.m3u8"
+        }, 
+        {
+            "name": "TLC", 
+            "url": "http://59.125.55.79:9008/9008.m3u8"
+        }
+
+    ]
+}

@@ -1,0 +1,60 @@
+{
+    "uuid": "64350b50-a810-4901-b86b-7a5106bdef2c", 
+    "title": "少儿", 
+    "channels": [
+            {
+                "name": "金鹰卡通", 
+                "url": "http://223.110.245.170/ott.js.chinamobile.com/PLTV/3/224/3221225620/index.m3u8"
+            }, 
+            {
+                "name": "优漫卡通", 
+                "url": "http://223.110.245.170/ott.js.chinamobile.com/PLTV/3/224/3221226982/index.m3u8"
+            }, 
+            {
+                "name": "新科动漫", 
+                "url": "http://223.99.186.132:6410/shandong_cabletv.live.zte.com/223.99.253.7:8081/00/SNM/CHANNEL00000625/index.m3u8"
+            }, 
+            {
+                "name": "卡酷卡通", 
+                "url": "http://ott.js.chinamobile.com/PLTV/3/224/3221225616/index.m3u8"
+            }, 
+            {
+                "name": "金鹰卡通", 
+                "url": "http://ott.js.chinamobile.com/PLTV/3/224/3221225620/index.m3u8"
+            }, 
+            {
+                "name": "炫动卡通", 
+                "url": "http://223.110.243.158/PLTV/3/224/3221225694/index.m3u8"
+            }, 
+            {
+                "name": "嘉佳卡通", 
+                "url": "http://ott.js.chinamobile.com/PLTV/3/224/3221226099/index.m3u8"
+            }, 
+            {
+                "name": "国漫专区", 
+                "url": "http://47.95.172.168/channel/1216.m3u8"
+            }, 
+            {
+                "name": "优漫卡通", 
+                "url": "http://ott.js.chinamobile.com/PLTV/3/224/3221226982/index.m3u8"
+            }, 
+            {
+                "name": "动漫秀场", 
+                "url": "http://huaweicdn.hb.chinamobile.com/PLTV/88888888/224/3221225778/index.m3u8"
+            }, 
+            {
+                "name": "海看少儿", 
+                "url": "http://223.99.186.132:6410/shandong_cabletv.live.zte.com/223.99.253.7:8081/00/SNM/CHANNEL00000402/index.m3u8"
+            }, 
+            {
+                "name": "Newtv动画王国", 
+                "url": "http://ott.fj.chinamobile.com/PLTV/88888888/224/3221225878/index.m3u8"
+            },
+            {
+                "name": "哆啦A梦", 
+                "url": "http://aldirect.hls.huya.com/huyalive/29169025-2686220742-11537230236726853632-3048959612-10057-A-1524131613-1_1200.m3u8"
+            }         
+
+            
+        ]
+}

@@ -7,13 +7,9 @@
                 "url": "http://223.110.245.170/ott.js.chinamobile.com/PLTV/3/224/3221225620/index.m3u8"
             }, 
             {
-                "name": "优漫卡通1", 
+                "name": "优漫卡通", 
                 "url": "http://223.110.245.170/ott.js.chinamobile.com/PLTV/3/224/3221226982/index.m3u8"
-            }, 
-            {
-                "name": "优漫卡通2", 
-                "url": "http://223.110.245.170/ott.js.chinamobile.com/PLTV/3/224/3221227188/index.m3u8"
-            }, 
+            },             
             {
                 "name": "新科动漫", 
                 "url": "http://223.99.186.132:6410/shandong_cabletv.live.zte.com/223.99.253.7:8081/00/SNM/CHANNEL00000625/index.m3u8"

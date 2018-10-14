@@ -90,17 +90,7 @@
         {
             "name": "赌片合集", 
             "url": "https://aldirect.hls.huya.com/huyalive/29106097-2689446042-11551082794746642432-2789253870-10057-A-0-1_1200.m3u8"
-        },
-
-        {
-            "name": "喜剧荟萃", 
-            "url": "https://ws3.streamhls.huya.com/huyalive/94525224-2701809014-11604181355168006144-158309560-10057-A-0-1_1200/playlist.m3u8"
-        },
-        
-        {
-            "name": "炫韩娱", 
-            "url": "http://dlhls.live.cnlive.com:1935/cdn/xuanhanyu/playlist.m3u8"
-        },
+        },  
         {
             "name": "高清电影轮播1", 
             "url": "http://aldirect.hls.huya.com/huyalive/94525224-2460685722-10568564701724147712-2789253838-10057-A-0-1_1200.m3u8"
@@ -168,11 +158,7 @@
         {
             "name": "FOX-HD电影台", 
             "url": "http://aldirect.hls.huya.com/huyalive/94525224-2467341872-10597152648291418112-2789274550-10057-A-0-1_1200.m3u8"
-        },
-        {
-            "name": "伟哥", 
-            "url": "TVhttp://dlhls.cdn.zhanqi.tv/zqlive/7032_0s2qn_1024/index.m3u8"
-        },
+        },        
         {
             "name": "一族", 
             "url": "http://dlhls.cdn.zhanqi.tv/zqlive/96851_ZeePd.m3u8"
@@ -188,11 +174,7 @@
         {
             "name": "蟲妹妹", 
             "url": "http://dlhls.cdn.zhanqi.tv/zqlive/53346_ESoth.m3u8"
-        },        
-        {
-            "name": "猪猪", 
-            "url": "http://dlhls.cdn.zhanqi.tv/zqlive/43626_vQOn9.m3u8"
-        },
+        },                
         {
             "name": "Newtv电影", 
             "url": "http://ott.fj.chinamobile.com/PLTV/88888888/224/3221225804/index.m3u8"
@@ -316,6 +298,10 @@
         {
             "name": "赵家班小品", 
             "url": "https://aldirect.hls.huya.com/huyalive/29106097-2689281338-11550375396453122048-2777038134-10057-A-1525339704-1_1200.m3u8"
+        },
+        {
+            "name": "炫韩娱", 
+            "url": "http://dlhls.live.cnlive.com:1935/cdn/xuanhanyu/playlist.m3u8"
         },
         {
             "name": "美国WWE摔跤", 

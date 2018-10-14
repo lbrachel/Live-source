@@ -20,7 +20,7 @@
 ~~~
   
 分成3个部分, uuid, title和 channels
-* uuid: 不要做任何改动
+* uuid:  `不要做任何改动`
 * title: 可以自定义
 * channels: 你所有的频道列表
 

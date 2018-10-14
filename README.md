@@ -27,6 +27,6 @@ channels: 你所有的频道列表
 <hr/>
 
 ## 以字符串形式读取github上.json文件的方法
-github提供的读取资源文件格式如下：
-https://raw.githubusercontent.com/:owner/:repo/master/:path
+  github提供的读取资源文件格式如下：
+  https://raw.githubusercontent.com/:owner/:repo/master/:path
 

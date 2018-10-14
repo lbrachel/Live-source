@@ -290,23 +290,7 @@
         {
             "name": "恶作剧之吻轮播", 
             "url": "http://flv3.quanmin.tv/live/3766_2134506790.m3u8"
-        },
-        {
-            "name": "赵本山小品", 
-            "url": "https://aldirect.hls.huya.com/huyalive/29106097-2689443426-11551071559112196096-2789253866-10057-A-0-1_1200.m3u8"
-        },
-        {
-            "name": "赵家班小品", 
-            "url": "https://aldirect.hls.huya.com/huyalive/29106097-2689281338-11550375396453122048-2777038134-10057-A-1525339704-1_1200.m3u8"
-        },
-        {
-            "name": "炫韩娱", 
-            "url": "http://dlhls.live.cnlive.com:1935/cdn/xuanhanyu/playlist.m3u8"
-        },
-        {
-            "name": "美国WWE摔跤", 
-            "url": "http://flv3.quanmin.tv/live/3766_2115620138.m3u8"
-        }     
+        }        
         
     ]
 }

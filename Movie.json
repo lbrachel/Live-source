@@ -4,7 +4,7 @@
     "channels": [
         {
             "name": "甄子丹", 
-            "url": "http://aldirect.hls.huya.com/huyalive/28466698-2689658976-11551997339312848896-2789274534-10057-A-0-1.m3u8  http://ws4.streamhls.huya.com/huyalive/29169025-2686219938-11537226783573147648-2847699096-10057-A-1524024759-1_1200/playlist.m3u8"
+            "url": "http://aldirect.hls.huya.com/huyalive/28466698-2689658976-11551997339312848896-2789274534-10057-A-0-1.m3u8"
         },
         {
             "name": "甄子丹", 
@@ -28,7 +28,7 @@
         },
         {
             "name": "刘德华", 
-            "url": "http://aldirect.hls.huya.com/huyalive/94525224-2467341872-10597152648291418112-2789274550-10057-A-0-1_1200.m3u8  http://ws4.streamhls.huya.com/huyalive/94525224-2467341872-10597152648291418112-2789274550-10057-A-0-1_1200/playlist.m3u8"
+            "url": "http://ws4.streamhls.huya.com/huyalive/94525224-2467341872-10597152648291418112-2789274550-10057-A-0-1_1200/playlist.m3u8"
         },
         {
             "name": "刘德华", 
@@ -306,7 +306,7 @@
         {
             "name": "美国WWE摔跤", 
             "url": "http://flv3.quanmin.tv/live/3766_2115620138.m3u8"
-        }        
+        }     
         
     ]
 }

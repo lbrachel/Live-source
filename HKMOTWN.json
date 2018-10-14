@@ -11,9 +11,17 @@
             "url": "http://223.110.245.170/ott.js.chinamobile.com/PLTV/3/224/3221226977/index.m3u8"
         }, 
         {
+            "name": "凤凰中文台", 
+            "url": "http://ott.fj.chinamobile.com/PLTV/88888888/224/3221225900/index.m3u8"
+        },
+        {
             "name": "凤凰资讯HD", 
             "url": "http://223.110.245.170/ott.js.chinamobile.com/PLTV/3/224/3221226923/index.m3u8"
         }, 
+        {
+            "name": "凤凰资讯台", 
+            "url": "http://ott.fj.chinamobile.com/PLTV/88888888/224/3221225901/index.m3u8"
+        },
         {
             "name": "凤凰资讯HD", 
             "url": "http://223.110.245.170/ott.js.chinamobile.com/PLTV/3/224/3221226980/index.m3u8"
@@ -26,14 +34,6 @@
             "name": "SDETV", 
             "url": "http://223.110.245.170/ott.js.chinamobile.com/PLTV/3/224/3221225614/index.m3u8"
         }, 
-        {
-            "name": "凤凰资讯台", 
-            "url": "http://ott.fj.chinamobile.com/PLTV/88888888/224/3221225901/index.m3u8"
-        },
-        {
-            "name": "凤凰中文台", 
-            "url": "http://ott.fj.chinamobile.com/PLTV/88888888/224/3221225900/index.m3u8"
-        },
         {
             "name": "香港卫视", 
             "url": "http://zhibo.hkstv.tv/livestream/zb2yhapo/playlist.m3u8"
@@ -106,6 +106,5 @@
             "name": "TLC", 
             "url": "http://59.125.55.79:9008/9008.m3u8"
         }
-
     ]
 }

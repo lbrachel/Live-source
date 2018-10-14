@@ -111,8 +111,60 @@
         },
         {
             "name": "电影轮播1", 
+            "url": "http://flv3.quanmin.tv/live/3766_2046731300.m3u8"
+        },
+        {
+            "name": "电影轮播2", 
+            "url": "http://flv3.quanmin.tv/live/3766_2035917884.m3u8"
+        },
+        {
+            "name": "电影轮播3", 
+            "url": "http://flv3.quanmin.tv/live/3766_2046736702.m3u8"
+        },
+        {
+            "name": "电影轮播4", 
+            "url": "http://flv3.quanmin.tv/live/3766_2029762870.m3u8"
+        },
+        {
+            "name": "电影轮播5", 
+            "url": "http://flv3.quanmin.tv/live/3766_2044699692.m3u8"
+        },
+        {
+            "name": "电影轮播6", 
+            "url": "http://flv3.quanmin.tv/live/3766_2046540092.m3u8"
+        },
+        {
+            "name": "电影轮播7", 
+            "url": "http://flv3.quanmin.tv/live/3766_2038343220.m3u8"
+        },
+        {
+            "name": "电影轮播8", 
+            "url": "http://flv3.quanmin.tv/live/3766_2116013880.m3u8"
+        },
+        {
+            "name": "电影轮播9", 
+            "url": "http://flv3.quanmin.tv/live/3766_2034214452.m3u8"
+        },
+        {
+            "name": "电影轮播10", 
+            "url": "http://dlhls.cdn.zhanqi.tv/zqlive/102444_ZGmRp.m3u8"
+        },
+        {
+            "name": "电影轮播11", 
+            "url": "http://dlhls.cdn.zhanqi.tv/zqlive/49427_jmACJ.m3u8"
+        },
+        {
+            "name": "电影轮播12", 
+            "url": "http://dlhls.cdn.zhanqi.tv/zqlive/7032_0s2qn.m3u8"
+        },
+        {
+            "name": "电影轮播13", 
             "url": "http://al.hls.huya.com/huyalive/94525224-2460686093-10568566295157014528-2789253848-10057-A-0-1.m3u8"
         },
+        {
+            "name": "香港经典电影轮播", 
+            "url": "http://aldirect.hls.huya.com/huyalive/94525224-2472147404-10617792251071299584-2777026638-10057-A-0-1_1200.m3u8"
+        },        
         {
             "name": "FOX-HD电影台", 
             "url": "http://aldirect.hls.huya.com/huyalive/94525224-2467341872-10597152648291418112-2789274550-10057-A-0-1_1200.m3u8"
@@ -136,19 +188,7 @@
         {
             "name": "蟲妹妹", 
             "url": "http://dlhls.cdn.zhanqi.tv/zqlive/53346_ESoth.m3u8"
-        },
-        {
-            "name": "电影1", 
-            "url": "http://dlhls.cdn.zhanqi.tv/zqlive/102444_ZGmRp.m3u8"
-        },
-        {
-            "name": "电影2", 
-            "url": "http://dlhls.cdn.zhanqi.tv/zqlive/49427_jmACJ.m3u8"
-        },
-        {
-            "name": "电影3", 
-            "url": "http://dlhls.cdn.zhanqi.tv/zqlive/7032_0s2qn.m3u8"
-        },
+        },        
         {
             "name": "猪猪", 
             "url": "http://dlhls.cdn.zhanqi.tv/zqlive/43626_vQOn9.m3u8"
@@ -220,43 +260,7 @@
         {
             "name": "康熙王朝轮播", 
             "url": "http://flv3.quanmin.tv/live/3766_2067786610.m3u8"
-        },
-        {
-            "name": "电影轮播1", 
-            "url": "http://flv3.quanmin.tv/live/3766_2046731300.m3u8"
-        },
-        {
-            "name": "电影轮播2", 
-            "url": "http://flv3.quanmin.tv/live/3766_2035917884.m3u8"
-        },
-        {
-            "name": "电影轮播3", 
-            "url": "http://flv3.quanmin.tv/live/3766_2046736702.m3u8"
-        },
-        {
-            "name": "电影轮播4", 
-            "url": "http://flv3.quanmin.tv/live/3766_2029762870.m3u8"
-        },
-        {
-            "name": "电影轮播5", 
-            "url": "http://flv3.quanmin.tv/live/3766_2044699692.m3u8"
-        },
-        {
-            "name": "电影轮播6", 
-            "url": "http://flv3.quanmin.tv/live/3766_2046540092.m3u8"
-        },
-        {
-            "name": "电影轮播7", 
-            "url": "http://flv3.quanmin.tv/live/3766_2038343220.m3u8"
-        },
-        {
-            "name": "电影轮播8", 
-            "url": "http://flv3.quanmin.tv/live/3766_2116013880.m3u8"
-        },
-        {
-            "name": "电影轮播9", 
-            "url": "http://flv3.quanmin.tv/live/3766_2034214452.m3u8"
-        },
+        },        
         {
             "name": "电视剧轮播1", 
             "url": "http://flv3.quanmin.tv/live/3766_1543024488.m3u8"
@@ -264,10 +268,6 @@
         {
             "name": "电视剧轮播2", 
             "url": "http://flv3.quanmin.tv/live/3766_1515827050.m3u8"
-        },
-        {
-            "name": "香港经典电影轮播", 
-            "url": "http://aldirect.hls.huya.com/huyalive/94525224-2472147404-10617792251071299584-2777026638-10057-A-0-1_1200.m3u8"
         },
         {
             "name": "电视剧轮播3", 

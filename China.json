@@ -1089,11 +1089,7 @@
         {
             "name": "NewTV精品体育HD", 
             "url": "http://223.110.245.170/ott.js.chinamobile.com/PLTV/3/224/3221225543/index.m3u8"
-        }, 
-        {
-            "name": "NewTV军旅剧场", 
-            "url": "http://223.110.245.170/ott.js.chinamobile.com/PLTV/3/224/3221225531/index.m3u8"
-        }, 
+        },         
         {
             "name": "NewTV军事评论", 
             "url": "http://223.110.245.170/ott.js.chinamobile.com/PLTV/3/224/3221225533/index.m3u8"
@@ -1101,11 +1097,7 @@
         {
             "name": "NewTV明星大片FHD", 
             "url": "http://223.110.245.170/ott.js.chinamobile.com/PLTV/3/224/3221225535/index.m3u8"
-        }, 
-        {
-            "name": "NewTV农业致富", 
-            "url": "http://223.110.245.170/ott.js.chinamobile.com/PLTV/3/224/3221225537/index.m3u8"
-        }, 
+        },         
         {
             "name": "NewTV潮妈辣婆", 
             "url": "http://223.110.245.170/ott.js.chinamobile.com/PLTV/3/224/3221226983/index.m3u8"
@@ -1113,11 +1105,7 @@
         {
             "name": "NewTV古装剧场", 
             "url": "http://223.110.245.170/ott.js.chinamobile.com/PLTV/3/224/3221225527/index.m3u8"
-        }, 
-        {
-            "name": "NewTV海外剧场", 
-            "url": "http://223.110.245.170/ott.js.chinamobile.com/PLTV/3/224/3221225547/index.m3u8"
-        }, 
+        },         
         {
             "name": "NewTV家庭剧场", 
             "url": "http://223.110.245.170/ott.js.chinamobile.com/PLTV/3/224/3221225549/index.m3u8"
@@ -1185,15 +1173,7 @@
         {
             "name": "中华美食", 
             "url": "http://223.110.245.147/ott.js.chinamobile.com/PLTV/3/224/3221227024/index.m3u8"
-        },                  
-        {
-            "name": "CNC1FHD", 
-            "url": "http://223.110.245.170/ott.js.chinamobile.com/PLTV/3/224/3221227441/index.m3u8"
-        }, 
-        {
-            "name": "CNC2FHD", 
-            "url": "http://223.110.245.170/ott.js.chinamobile.com/PLTV/3/224/3221227444/index.m3u8"
-        },           
+        },     
         {
             "name": "SDETV", 
             "url": "http://223.110.245.170/ott.js.chinamobile.com/PLTV/3/224/3221225614/index.m3u8"
@@ -1202,10 +1182,6 @@
             "name": "新闻", 
             "url": "http://223.110.245.157/ott.js.chinamobile.com/PLTV/3/224/3221226601/index.m3u8"
         }, 
-        {
-            "name": "新闻HD", 
-            "url": "http://223.110.245.170/ott.js.chinamobile.com/PLTV/3/224/3221226601/index.m3u8"
-        },
         {
             "name": "京视剧场", 
             "url": "http://223.110.245.143/ott.js.chinamobile.com/PLTV/3/224/3221227040/index.m3u8"

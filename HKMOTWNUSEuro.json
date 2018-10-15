@@ -53,6 +53,10 @@
         {
             "name": "香港卫视", 
             "url": "http://zhibo.hkstv.tv/livestream/zb2yhapo/playlist.m3u8"
+        },    
+        {
+            "name": "环球电视台UTV", 
+            "url": "http://live-cdn.xzxwhcb.com/hls/r86am856.m3u8"
         },
         {
             "name": "澳门卫视", 
@@ -93,6 +97,10 @@
         {
             "name": "三立台湾", 
             "url": "http://125.227.35.176:18080/set/index.m3u8"
+        }, 
+        {
+            "name": "中天新闻HD", 
+            "url": "http://60.199.188.61/HLS/WG_ETTV-N/index.m3u8%E6%B0%91%E8%A7%86%E6%96%B0%E9%97%BBHD,https://6.mms.vlog.xuite.net/hls/ftvtv/index.m3u8"
         }, 
         {
             "name": "三立都会", 
@@ -153,10 +161,23 @@
         { 
             "name": "原始生活21天", 
             "url": "https://aldirect.hls.huya.com:443/huyalive/29359996-2689646434-11551943471833022464-2847699146-10057-A-1525507126-1_1200.m3u8"
-        },
+        },        
         { 
-            "name": "外国音乐频道", 
+            "name": "kbs韩国国际电台1", 
+            "url": "kbs1,http://hls.live.kbskme.gscdn.com/www_1tv/_definst_/1tv_5.stream/chunklist_w373353568.m3u8?tid=d7ce7e33a4eedafa58f6b09ee04a5f87"
+        }，
+        { 
+            "name": "kbs韩国国际电台2", 
+            "url": "kbs2,http://hls.live.kbskme.gscdn.com/www_2tv/_definst_/2tv_5.stream/chunklist_w817618885.m3u8?tid=55b1e64461c38b140eda1605f886d582"
+        }，
+        { 
+            "name": "kbs韩国国际电台3", 
             "url": "http://m2otv-lh.akamaihd.net/i/m2oTv_1@186074/index_600_av-b.m3u8"
-        }          
+        }，
+        { 
+            "name": "MBC", 
+            "url": "http://www.pickcom.co.kr:1935/sjp/live07/chunklist_w2107750490.m3u8?site=speedtv&ch=live07&pm=P"
+        }        
+        
     ]
 }

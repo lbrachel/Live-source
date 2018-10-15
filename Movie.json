@@ -87,9 +87,17 @@
             "url": "http://ws4.streamhls.huya.com/huyalive/30765679-2523417522-10837995731143360512-2777068634-10057-A-0-1_1200/playlist.m3u8"
         }, 
         {
+            "name": "斯坦森", 
+            "url": "https://ws4.streamhls.huya.com/huyalive/29106097-2689279104-11550365801496182784-2777026902-10057-A-0-1_1200/playlist.m3u8"
+        },  
+        {
             "name": "赌片合集", 
             "url": "https://aldirect.hls.huya.com/huyalive/29106097-2689446042-11551082794746642432-2789253870-10057-A-0-1_1200.m3u8"
-        },  
+        }, 
+        {
+            "name": "好莱坞电影", 
+            "url": "http://tx.hls.huya.com/huyalive/30765679-2484192572-10669525853706125312-2847687498-10057-A-1521100607-1.m3u8"
+        },        
         {
             "name": "高清电影轮播1", 
             "url": "http://aldirect.hls.huya.com/huyalive/94525224-2460685722-10568564701724147712-2789253838-10057-A-0-1_1200.m3u8"
@@ -159,6 +167,10 @@
             "url": "http://aldirect.hls.huya.com/huyalive/29169025-2686220598-11537229618251563008-2847687556-10057-A-1524043048-1_1200.m3u8"
         },
         {
+            "name": "灾难电影轮播", 
+            "url": "http://tx.hls.huya.com/huyalive/29359996-2689475864-11551210879261343744-2847699104-10057-A-1525430092-1.m3u8"
+        },
+        {
             "name": "香港经典电影轮播", 
             "url": "http://aldirect.hls.huya.com/huyalive/94525224-2472147404-10617792251071299584-2777026638-10057-A-0-1_1200.m3u8"
         },
@@ -179,8 +191,16 @@
             "url": "http://dlhls.cdn.zhanqi.tv/zqlive/49858_wgGj1.m3u8"
         },
         {
+            "name": "壹电影台", 
+            "url": "http://116.48.15.121:36570/hls/B14XX.m3u8?ex=1539599216&st=xhC7lwe9N-9bw8-b3bA7Cg"
+        },
+        {
             "name": "影视剧频道", 
             "url": "http://223.110.245.157/ott.js.chinamobile.com/PLTV/3/224/3221227372/index.m3u8"
+        }, 
+        {
+            "name": "河北影视频道", 
+            "url": "http://weblive.hebtv.com/live/hbys_bq/index.m3u8"
         },          
         {
             "name": "广东影视频道", 
@@ -189,6 +209,10 @@
         {
             "name": "济南影视频道", 
             "url": "http://ts1.ijntv.cn/yshd/hd/live.m3u8"
+        },
+        {
+            "name": "黑龙江影视", 
+            "url": "http://stream2.hljtv.com/hljys/sd/live.m3u8?_upt=f730b4001539486447"
         },
         {
             "name": "蟲妹妹", 

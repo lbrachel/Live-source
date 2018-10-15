@@ -15,9 +15,29 @@
             "url": "http://dlhls.live.cnlive.com:1935/cdn/xuanhanyu/playlist.m3u8"
         },
         {
+            "name": "欢笑剧场HD", 
+            "url": "http://111.48.34.219/wh7f454c46tw788514634_1400845055/huaweicdn.hb.chinamobile.com/PLTV/2510088/224/3221225776/1.m3u8"
+        },
+        {
+            "name": "动漫秀场HD", 
+            "url": "http://111.48.34.223/wh7f454c46tw2980223871_298618274/huaweicdn.hb.chinamobile.com/PLTV/2510088/224/3221225778/1.m3u8"
+        },
+        {
             "name": "美国WWE摔跤", 
             "url": "http://flv3.quanmin.tv/live/3766_2115620138.m3u8"
-        }     
+        }，
+        {
+            "name": "--- 音乐 ---",
+            "url": ""
+        },
+        {
+            "name": "演唱会", 
+            "url": "http://flv3.quanmin.tv/live/3766_1526312810.m3u8"
+        }, 
+        { 
+            "name": "外国音乐频道", 
+            "url": "http://m2otv-lh.akamaihd.net/i/m2oTv_1@186074/index_600_av-b.m3u8"
+        }
         
     ]
 }

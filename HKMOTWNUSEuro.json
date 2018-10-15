@@ -3,7 +3,8 @@
     "title": "港澳台欧美", 
     "channels": [
         {
-            "name": "-- 港澳台 --"
+            "name": "-- 港澳台 --",
+            "url": ""
         },
         {
             "name": "凤凰中文HD", 
@@ -134,7 +135,8 @@
             "url": "http://cdn2.bear-tv.com/freetv/TOT_National_Geographic_eng/chunks.m3u8"
         },         
         {
-            "name": "-- 欧美 --"
+            "name": "-- 欧美 --",
+            "url": ""
         },
         { 
             "name": "美国有线电视CNN", 

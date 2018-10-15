@@ -375,6 +375,14 @@
             "url": "http://223.99.186.132:6410/shandong_cabletv.live.zte.com/223.99.253.7:8081/00/SNM/CHANNEL00000613/index.m3u8"
         },
         {
+            "name": "CCTV风云音乐", 
+            "url": "http://223.110.245.161/ott.js.chinamobile.com/PLTV/3/224/3221227391/index.m3u8"
+        }, 
+        {
+            "name": "CCTV风云足球", 
+            "url": "http://223.110.245.167/ott.js.chinamobile.com/PLTV/3/224/3221227344/index.m3u8"
+        },
+        {
             "name": "CCTV风云足球", 
             "url": "http://223.99.186.132:6410/shandong_cabletv.live.zte.com/223.99.253.7:8081/00/SNM/CHANNEL00000618/index.m3u8"
         },
@@ -391,6 +399,10 @@
             "url": "http://ott.js.chinamobile.com/PLTV/4/224/3221227043/index.m3u8"
         },
         {
+            "name": "CCTV老故事", 
+            "url": "http://223.110.245.145/ott.js.chinamobile.com/PLTV/3/224/3221227043/index.m3u8"
+        },
+        {
             "name": "CCTV国防军事", 
             "url": "http://112.50.243.8/PLTV/88888888/224/3221226592/1.m3u8"
         },
@@ -401,43 +413,31 @@
         {
             "name": "CCTV电视指南", 
             "url": "http://223.110.245.149/ott.js.chinamobile.com/PLTV/3/224/3221227337/index.m3u8"
-        }, 
-        {
-            "name": "CCTV风云音乐", 
-            "url": "http://223.110.245.161/ott.js.chinamobile.com/PLTV/3/224/3221227391/index.m3u8"
-        }, 
-        {
-            "name": "CCTV风云足球", 
-            "url": "http://223.110.245.167/ott.js.chinamobile.com/PLTV/3/224/3221227344/index.m3u8"
-        }, 
-        {
-            "name": "CCTV高尔夫网球", 
-            "url": "http://223.110.245.151/ott.js.chinamobile.com/PLTV/3/224/3221226420/index.m3u8"
-        }, 
-        {
-            "name": "CCTV高尔夫网球", 
-            "url": "http://223.110.245.165/ott.js.chinamobile.com/PLTV/3/224/3221227347/index.m3u8"
-        }, 
-        {
-            "name": "CCTV老故事", 
-            "url": "http://223.110.245.145/ott.js.chinamobile.com/PLTV/3/224/3221227043/index.m3u8"
-        }, 
+        },   
         {
             "name": "CCTV女性时尚", 
             "url": "http://223.110.245.153/ott.js.chinamobile.com/PLTV/3/224/3221227026/index.m3u8"
+        },         
+        {
+            "name": "山西卫视", 
+            "url": "http://223.110.245.147/ott.js.chinamobile.com/PLTV/3/224/3221226091/index.m3u8"
+        }, 
+        {
+            "name": "山西卫视", 
+            "url": "http://223.110.245.149/ott.js.chinamobile.com/PLTV/3/224/3221227134/index.m3u8"
+        }, 
+        {
+            "name": "山西卫视", 
+            "url": "http://ott.fj.chinamobile.com/PLTV/88888888/224/3221225839/index.m3u8"
         },
-        {
-            "name": "安徽卫视", 
-            "url": "http://223.110.245.143/ott.js.chinamobile.com/PLTV/3/224/3221225800/index.m3u8"
-        }, 
-        {
-            "name": "安徽卫视FHD", 
-            "url": "http://223.110.245.147/ott.js.chinamobile.com/PLTV/3/224/3221225634/index.m3u8"
-        }, 
         {
             "name": "北京卫视", 
             "url": "http://223.110.245.147/ott.js.chinamobile.com/PLTV/3/224/3221227435/index.m3u8"
         }, 
+        {
+            "name": "北京卫视FHD", 
+            "url": "http://223.110.245.170/ott.js.chinamobile.com/PLTV/3/224/3221227246/index.m3u8"
+        },
         {
             "name": "北京卫视FHD", 
             "url": "http://223.110.245.153/ott.js.chinamobile.com/PLTV/3/224/3221225574/index.m3u8"
@@ -447,9 +447,9 @@
             "url": "http://223.110.245.163/ott.js.chinamobile.com/PLTV/3/224/3221227436/index.m3u8"
         }, 
         {
-            "name": "兵团卫视", 
-            "url": "http://223.110.245.165/ott.js.chinamobile.com/PLTV/3/224/3221227205/index.m3u8"
-        }, 
+            "name": "北京卫视", 
+            "url": "http://ott.js.chinamobile.com/PLTV/3/224/3221227246/index.m3u8"
+        },
         {
             "name": "福建卫视", 
             "url": "http://223.110.245.157/ott.js.chinamobile.com/PLTV/3/224/3221227152/index.m3u8"
@@ -471,9 +471,25 @@
             "url": "http://223.110.245.145/ott.js.chinamobile.com/PLTV/3/224/3221227149/index.m3u8"
         }, 
         {
+            "name": "甘肃卫视", 
+            "url": "http://223.110.245.170/ott.js.chinamobile.com/PLTV/3/224/3221225590/index.m3u8"
+        }, 
+        {
+            "name": "甘肃卫视", 
+            "url": "http://ott.fj.chinamobile.com/PLTV/88888888/224/3221225845/index.m3u8"
+        },
+        {
             "name": "广东卫视", 
             "url": "http://223.110.245.141/ott.js.chinamobile.com/PLTV/3/224/3221225578/index.m3u8"
         }, 
+        {
+            "name": "广东卫视", 
+            "url": "http://223.110.245.170/ott.js.chinamobile.com/PLTV/3/224/3221225578/index.m3u8"
+        },
+        {
+            "name": "广东卫视", 
+            "url": "http://ott.js.chinamobile.com/PLTV/3/224/3221227249/index.m3u8"
+        },        
         {
             "name": "广东卫视FHD", 
             "url": "http://223.110.245.145/ott.js.chinamobile.com/PLTV/3/224/3221227249/index.m3u8"
@@ -483,16 +499,32 @@
             "url": "http://223.110.245.155/ott.js.chinamobile.com/PLTV/3/224/3221227445/index.m3u8"
         }, 
         {
+            "name": "广东卫视FHD", 
+            "url": "http://223.110.245.170/ott.js.chinamobile.com/PLTV/3/224/3221227249/index.m3u8"
+        }, 
+        {
             "name": "广东卫视HD", 
             "url": "http://223.110.245.165/ott.js.chinamobile.com/PLTV/3/224/3221225906/index.m3u8"
-        }, 
+        },        
+        {
+            "name": "广东卫视HD", 
+            "url": "http://223.110.245.170/ott.js.chinamobile.com/PLTV/3/224/3221225592/index.m3u8"
+        },
         {
             "name": "广西卫视", 
             "url": "http://223.110.245.165/ott.js.chinamobile.com/PLTV/3/224/3221226055/index.m3u8"
         }, 
         {
+            "name": "广西卫视", 
+            "url": "http://ott.js.chinamobile.com/PLTV/3/224/3221225554/index.m3u8"
+        },
+        {
             "name": "贵州卫视", 
             "url": "http://223.110.245.149/ott.js.chinamobile.com/PLTV/3/224/3221225787/index.m3u8"
+        },
+        {
+            "name": "贵州卫视", 
+            "url": "http://223.99.189.66:6410/shandong_cabletv.live.zte.com/223.99.253.7:8081/00/SNM/CHANNEL00000329/index.m3u8"
         },
         {
             "name": "河北卫视", 
@@ -503,9 +535,29 @@
             "url": "http://223.110.245.149/ott.js.chinamobile.com/PLTV/3/224/3221225840/index.m3u8"
         }, 
         {
+            "name": "河北卫视", 
+            "url": "http://223.110.245.170/ott.js.chinamobile.com/PLTV/3/224/3221225602/index.m3u8"
+        },
+        {
+            "name": "河北卫视", 
+            "url": "http://223.99.189.66:6410/shandong_cabletv.live.zte.com/223.99.253.7:8081/00/SNM/CHANNEL00000034/index.m3u8"
+        },
+        {
             "name": "河南卫视", 
             "url": "http://223.110.245.157/ott.js.chinamobile.com/PLTV/3/224/3221225815/index.m3u8"
         }, 
+        {
+            "name": "河南卫视", 
+            "url": "http://ott.fj.chinamobile.com/PLTV/88888888/224/3221225842/index.m3u8"
+        },
+        {
+            "name": "湖北卫视", 
+            "url": "http://223.110.243.170/PLTV/3/224/3221227211/index.m3u8"
+        }, 
+        {
+            "name": "湖北卫视FHD", 
+            "url": "http://223.110.245.170/ott.js.chinamobile.com/PLTV/3/224/3221227211/index.m3u8"
+        },
         {
             "name": "湖北卫视FHD", 
             "url": "http://223.110.245.153/ott.js.chinamobile.com/PLTV/3/224/3221227211/index.m3u8"
@@ -517,6 +569,18 @@
         {
             "name": "湖南卫视", 
             "url": "http://223.110.245.165/ott.js.chinamobile.com/PLTV/3/224/3221225854/index.m3u8"
+        }, 
+        {
+            "name": "湖南卫视", 
+            "url": "http://223.110.243.173/PLTV/3/224/3221227220/index.m3u8"
+        },
+        {
+            "name": "湖南卫视FHD", 
+            "url": "http://223.110.245.170/ott.js.chinamobile.com/PLTV/3/224/3221227191/index.m3u8"
+        }, 
+        {
+            "name": "湖南卫视FHD", 
+            "url": "http://223.110.245.170/ott.js.chinamobile.com/PLTV/3/224/3221227220/index.m3u8"
         }, 
         {
             "name": "湖南卫视FHD", 
@@ -533,7 +597,7 @@
         {
             "name": "湖南卫视HD", 
             "url": "http://223.110.245.147/ott.js.chinamobile.com/PLTV/3/224/3221225908/index.m3u8"
-        }, 
+        },         
         {
             "name": "吉林卫视", 
             "url": "http://223.110.245.153/ott.js.chinamobile.com/PLTV/3/224/3221225883/index.m3u8"
@@ -543,6 +607,10 @@
             "url": "http://223.110.245.147/ott.js.chinamobile.com/PLTV/3/224/3221226057/index.m3u8"
         }, 
         {
+            "name": "吉林卫视", 
+            "url": "http://223.99.189.66:6410/shandong_cabletv.live.zte.com/223.99.253.7:8081/00/SNM/CHANNEL00000036/index.m3u8"
+        },
+        {
             "name": "江苏卫视", 
             "url": "http://223.110.245.165/ott.js.chinamobile.com/PLTV/3/224/3221225782/index.m3u8"
         }, 
@@ -550,6 +618,10 @@
             "name": "江苏卫视", 
             "url": "http://223.110.245.145/ott.js.chinamobile.com/PLTV/3/224/3221227356/index.m3u8"
         }, 
+        {
+            "name": "江苏卫视", 
+            "url": "http://ott.js.chinamobile.com/PLTV/3/224/3221227255/index.m3u8"
+        },
         {
             "name": "江苏卫视FHD", 
             "url": "http://223.110.245.159/ott.js.chinamobile.com/PLTV/3/224/3221227185/index.m3u8"
@@ -565,11 +637,19 @@
         {
             "name": "江苏卫视FHD", 
             "url": "http://223.110.245.157/ott.js.chinamobile.com/PLTV/3/224/3221227439/index.m3u8"
+        },                
+        {
+            "name": "江苏卫视FHD", 
+            "url": "http://223.110.245.170/ott.js.chinamobile.com/PLTV/3/224/3221227185/index.m3u8"
+        }, 
+        {
+            "name": "江苏卫视FHD", 
+            "url": "http://223.110.245.170/ott.js.chinamobile.com/PLTV/3/224/3221227255/index.m3u8"
         }, 
         {
             "name": "江苏卫视HD", 
             "url": "http://223.110.245.155/ott.js.chinamobile.com/PLTV/3/224/3221225958/index.m3u8"
-        }, 
+        },  
         {
             "name": "宁夏卫视", 
             "url": "http://223.110.245.151/ott.js.chinamobile.com/PLTV/3/224/3221225842/index.m3u8"
@@ -579,8 +659,20 @@
             "url": "http://223.110.245.147/ott.js.chinamobile.com/PLTV/3/224/3221227138/index.m3u8"
         }, 
         {
+            "name": "宁夏卫视", 
+            "url": "http://ott.fj.chinamobile.com/PLTV/88888888/224/3221225849/index.m3u8"
+        },
+        {
             "name": "青海卫视", 
             "url": "http://223.110.245.155/ott.js.chinamobile.com/PLTV/3/224/3221227135/index.m3u8"
+        }, 
+        {
+            "name": "青海卫视", 
+            "url": "http://ott.fj.chinamobile.com/PLTV/88888888/224/3221225841/index.m3u8"
+        },
+        {
+            "name": "青海卫视", 
+            "url": "http://223.110.245.170/ott.js.chinamobile.com/PLTV/3/224/3221225580/index.m3u8"
         }, 
         {
             "name": "厦门卫视", 
@@ -599,25 +691,29 @@
             "url": "http://223.110.245.161/ott.js.chinamobile.com/PLTV/3/224/3221227370/index.m3u8"
         }, 
         {
+            "name": "山东卫视", 
+            "url": "http://ott.js.chinamobile.com/PLTV/3/224/3221227258/index.m3u8"
+        },
+        {
             "name": "山东卫视FHD", 
             "url": "http://223.110.245.155/ott.js.chinamobile.com/PLTV/3/224/3221227258/index.m3u8"
         }, 
         {
             "name": "山东卫视HD", 
             "url": "http://223.110.245.159/ott.js.chinamobile.com/PLTV/3/224/3221226003/index.m3u8"
-        }, 
+        },         
         {
-            "name": "山西卫视", 
-            "url": "http://223.110.245.147/ott.js.chinamobile.com/PLTV/3/224/3221226091/index.m3u8"
-        }, 
-        {
-            "name": "山西卫视", 
-            "url": "http://223.110.245.149/ott.js.chinamobile.com/PLTV/3/224/3221227134/index.m3u8"
-        }, 
+            "name": "山东卫视FHD", 
+            "url": "http://223.110.245.170/ott.js.chinamobile.com/PLTV/3/224/3221227258/index.m3u8"
+        },        
         {
             "name": "陕西卫视", 
             "url": "http://223.110.245.163/ott.js.chinamobile.com/PLTV/3/224/3221226079/index.m3u8"
         }, 
+        {
+            "name": "陕西卫视", 
+            "url": "http://ott.fj.chinamobile.com/PLTV/88888888/224/3221225850/index.m3u8"
+        },
         {
             "name": "上海卫视", 
             "url": "http://223.110.245.159/ott.js.chinamobile.com/PLTV/3/224/3221225558/index.m3u8"
@@ -626,6 +722,10 @@
             "name": "上海卫视", 
             "url": "http://223.110.245.159/ott.js.chinamobile.com/PLTV/3/224/3221225856/index.m3u8"
         }, 
+        {
+            "name": "上海卫视", 
+            "url": "http://223.110.245.170/ott.js.chinamobile.com/PLTV/3/224/3221225558/index.m3u8"
+        },
         {
             "name": "上海卫视FHD", 
             "url": "http://223.110.245.159/ott.js.chinamobile.com/PLTV/3/224/3221227208/index.m3u8"
@@ -637,7 +737,15 @@
         {
             "name": "上海卫视HD", 
             "url": "http://223.110.245.145/ott.js.chinamobile.com/PLTV/3/224/3221225904/index.m3u8"
-        }, 
+        },          
+        {
+            "name": "上海卫视FHD", 
+            "url": "http://223.110.245.170/ott.js.chinamobile.com/PLTV/3/224/3221227208/index.m3u8"
+        },
+        {
+            "name": "上海纪实HD", 
+            "url": "http://223.110.245.155/ott.js.chinamobile.com/PLTV/3/224/3221227420/index.m3u8"
+        },
         {
             "name": "深圳卫视", 
             "url": "http://223.110.245.153/ott.js.chinamobile.com/PLTV/3/224/3221227129/index.m3u8"
@@ -645,11 +753,19 @@
         {
             "name": "深圳卫视", 
             "url": "http://223.110.245.153/ott.js.chinamobile.com/PLTV/3/224/3221227453/index.m3u8"
-        }, 
+        },         
+        {
+            "name": "深圳卫视", 
+            "url": "http://223.110.243.171/PLTV/3/224/3221227217/index.m3u8"
+        },
         {
             "name": "深圳卫视HD", 
             "url": "http://223.110.245.157/ott.js.chinamobile.com/PLTV/3/224/3221225997/index.m3u8"
         },
+        {
+            "name": "深圳卫视FHD", 
+            "url": "http://223.110.245.170/ott.js.chinamobile.com/PLTV/3/224/3221227217/index.m3u8"
+        }, 
         {
             "name": "四川卫视", 
             "url": "http://223.110.245.145/ott.js.chinamobile.com/PLTV/3/224/3221225814/index.m3u8"
@@ -657,6 +773,14 @@
         {
             "name": "四川卫视", 
             "url": "http://223.110.245.165/ott.js.chinamobile.com/PLTV/3/224/3221227131/index.m3u8"
+        }, 
+        {
+            "name": "四川卫视", 
+            "url": "http://ott.fj.chinamobile.com/PLTV/88888888/224/3221225835/index.m3u8"
+        },
+        {
+            "name": "四川卫视", 
+            "url": "http://223.110.245.170/ott.js.chinamobile.com/PLTV/3/224/3221225570/index.m3u8"
         }, 
         {
             "name": "天津卫视", 
@@ -671,6 +795,14 @@
             "url": "http://223.110.245.165/ott.js.chinamobile.com/PLTV/3/224/3221227128/index.m3u8"
         }, 
         {
+            "name": "天津卫视", 
+            "url": "http://ott.js.chinamobile.com/PLTV/3/224/3221227212/index.m3u8"
+        },
+        {
+            "name": "天津卫视", 
+            "url": "http://223.110.245.170/ott.js.chinamobile.com/PLTV/3/224/3221225562/index.m3u8"
+        }, 
+        {
             "name": "天津卫视FHD", 
             "url": "http://223.110.245.141/ott.js.chinamobile.com/PLTV/3/224/3221227212/index.m3u8"
         }, 
@@ -681,154 +813,94 @@
         {
             "name": "天津卫视FHD", 
             "url": "http://223.110.245.165/ott.js.chinamobile.com/PLTV/3/224/3221227407/index.m3u8"
-        },
+        },        
+        {
+            "name": "天津卫视FHD", 
+            "url": "http://223.110.245.170/ott.js.chinamobile.com/PLTV/3/224/3221227212/index.m3u8"
+        }, 
         {
             "name": "西藏卫视", 
             "url": "http://223.110.245.143/ott.js.chinamobile.com/PLTV/3/224/3221227277/index.m3u8"
         }, 
-                {
-            "name": "北京卫视", 
-            "url": "http://ott.js.chinamobile.com/PLTV/3/224/3221227246/index.m3u8"
+        {
+            "name": "西藏卫视", 
+            "url": "http://ott.js.chinamobile.com/PLTV/3/224/3221225579/index.m3u8"
         },
         {
-            "name": "天津卫视", 
-            "url": "http://ott.js.chinamobile.com/PLTV/3/224/3221227212/index.m3u8"
+            "name": "西藏卫视", 
+            "url": "http://ott.js.chinamobile.com/PLTV/3/224/3221225579/index.m3u8"
         },
+        {
+            "name": "西藏卫视", 
+            "url": "http://223.110.245.170/ott.js.chinamobile.com/PLTV/3/224/3221225579/index.m3u8"
+        },                
         {
             "name": "重庆卫视", 
             "url": "http://223.110.243.155:80/PLTV/3/224/3221227421/index.m3u8"
         },
         {
+            "name": "重庆卫视", 
+            "url": "http://223.110.245.151/ott.js.chinamobile.com/PLTV/3/224/3221225594/index.m3u8"
+        },
+        {
+            "name": "重庆卫视", 
+            "url": "http://223.110.245.170/ott.js.chinamobile.com/PLTV/3/224/3221225594/index.m3u8"
+        }, 
+        {
+            "name": "重庆卫视FHD", 
+            "url": "http://223.110.245.170/ott.js.chinamobile.com/PLTV/3/224/3221227421/index.m3u8"
+        },  
+        {
             "name": "东方卫视", 
             "url": "http://ott.js.chinamobile.com/PLTV/3/224/3221227208/index.m3u8"
         },
         {
-            "name": "安徽卫视", 
-            "url": "http://ott.js.chinamobile.com/PLTV/3/224/3221225634/index.m3u8"
-        },
-        {
-            "name": "湖南卫视", 
-            "url": "http://223.110.243.173/PLTV/3/224/3221227220/index.m3u8"
-        },
-        {
-            "name": "湖北卫视", 
-            "url": "http://223.110.243.170/PLTV/3/224/3221227211/index.m3u8"
-        },
-        {
-            "name": "广东卫视", 
-            "url": "http://ott.js.chinamobile.com/PLTV/3/224/3221227249/index.m3u8"
-        },
-        {
-            "name": "广西卫视", 
-            "url": "http://ott.js.chinamobile.com/PLTV/3/224/3221225554/index.m3u8"
-        },
-        {
-            "name": "江苏卫视", 
-            "url": "http://ott.js.chinamobile.com/PLTV/3/224/3221227255/index.m3u8"
+            "name": "东方财经", 
+            "url": "http://223.110.245.157/ott.js.chinamobile.com/PLTV/3/224/3221226033/index.m3u8"
         },
         {
             "name": "江西卫视", 
             "url": "http://ott.js.chinamobile.com/PLTV/3/224/3221225536/index.m3u8"
         },
         {
+            "name": "江西卫视FHD", 
+            "url": "http://223.110.245.170/ott.js.chinamobile.com/PLTV/3/224/3221225536/index.m3u8"
+        }, 
+        {
+            "name": "江西卫视FHD", 
+            "url": "http://223.110.245.170/ott.js.chinamobile.com/PLTV/3/224/3221227214/index.m3u8"
+        }, 
+        {
+            "name": "江西卫视FHD", 
+            "url": "http://223.110.245.159/ott.js.chinamobile.com/PLTV/3/224/3221227214/index.m3u8"
+        },
+        {
             "name": "黑龙江卫视", 
             "url": "http://223.110.243.169/PLTV/3/224/3221227252/index.m3u8"
-        },
+        },     
         {
-            "name": "河北卫视", 
-            "url": "http://223.99.189.66:6410/shandong_cabletv.live.zte.com/223.99.253.7:8081/00/SNM/CHANNEL00000034/index.m3u8"
-        },
+            "name": "黑龙江FHD", 
+            "url": "http://223.110.245.163/ott.js.chinamobile.com/PLTV/3/224/3221227252/index.m3u8"
+        }, 
         {
-            "name": "河南卫视", 
-            "url": "http://ott.fj.chinamobile.com/PLTV/88888888/224/3221225842/index.m3u8"
-        },
+            "name": "黑龙江FHD", 
+            "url": "http://223.110.245.165/ott.js.chinamobile.com/PLTV/3/224/3221227323/index.m3u8"
+        }, 
         {
-            "name": "山西卫视", 
-            "url": "http://ott.fj.chinamobile.com/PLTV/88888888/224/3221225839/index.m3u8"
-        },
+            "name": "黑龙江FHD", 
+            "url": "http://223.110.245.161/ott.js.chinamobile.com/PLTV/3/224/3221227492/index.m3u8"
+        }, 
         {
-            "name": "山东卫视", 
-            "url": "http://ott.js.chinamobile.com/PLTV/3/224/3221227258/index.m3u8"
+            "name": "黑龙江FHD", 
+            "url": "http://223.110.245.170/ott.js.chinamobile.com/PLTV/3/224/3221227252/index.m3u8"
+        }, 
+        {
+            "name": "黑龙江FHD", 
+            "url": "http://223.110.245.170/ott.js.chinamobile.com/PLTV/3/224/3221227477/index.m3u8"
         },
         {
             "name": "浙江卫视", 
             "url": "http://ott.js.chinamobile.com/PLTV/3/224/3221227215/index.m3u8"
-        },
-        {
-            "name": "深圳卫视", 
-            "url": "http://223.110.243.171/PLTV/3/224/3221227217/index.m3u8"
-        },
-        {
-            "name": "旅游卫视", 
-            "url": "http://stream1.hnntv.cn/lywsgq/sd/live.m3u8"
-        },
-        {
-            "name": "辽宁卫视", 
-            "url": "http://ott.js.chinamobile.com/PLTV/3/224/3221225566/index.m3u8"
-        },
-        {
-            "name": "甘肃卫视", 
-            "url": "http://ott.fj.chinamobile.com/PLTV/88888888/224/3221225845/index.m3u8"
-        },
-        {
-            "name": "陕西卫视", 
-            "url": "http://ott.fj.chinamobile.com/PLTV/88888888/224/3221225850/index.m3u8"
-        },
-        {
-            "name": "兵团卫视", 
-            "url": "http://ott.js.chinamobile.com/PLTV/4/224/3221227025/index.m3u8"
-        },
-        {
-            "name": "吉林卫视", 
-            "url": "http://223.99.189.66:6410/shandong_cabletv.live.zte.com/223.99.253.7:8081/00/SNM/CHANNEL00000036/index.m3u8"
-        },
-        {
-            "name": "四川卫视", 
-            "url": "http://ott.fj.chinamobile.com/PLTV/88888888/224/3221225835/index.m3u8"
-        },
-        {
-            "name": "东南卫视", 
-            "url": "http://ott.js.chinamobile.com/PLTV/3/224/3221225598/index.m3u8"
-        },
-        {
-            "name": "西藏卫视", 
-            "url": "http://ott.js.chinamobile.com/PLTV/3/224/3221225579/index.m3u8"
-        },
-        {
-            "name": "西藏卫视", 
-            "url": "http://ott.js.chinamobile.com/PLTV/3/224/3221225579/index.m3u8"
-        },
-        {
-            "name": "贵州卫视", 
-            "url": "http://223.99.189.66:6410/shandong_cabletv.live.zte.com/223.99.253.7:8081/00/SNM/CHANNEL00000329/index.m3u8"
-        },
-        {
-            "name": "云南卫视", 
-            "url": "http://ott.fj.chinamobile.com/PLTV/88888888/224/3221225853/index.m3u8"
-        },
-        {
-            "name": "宁夏卫视", 
-            "url": "http://ott.fj.chinamobile.com/PLTV/88888888/224/3221225849/index.m3u8"
-        },
-        {
-            "name": "青海卫视", 
-            "url": "http://ott.fj.chinamobile.com/PLTV/88888888/224/3221225841/index.m3u8"
-        },
-        {
-            "name": "内蒙古卫视", 
-            "url": "http://ott.fj.chinamobile.com/PLTV/88888888/224/3221225846/index.m3u8"
-        },
-        {
-            "name": "云南卫视", 
-            "url": "http://223.110.245.157/ott.js.chinamobile.com/PLTV/3/224/3221225591/index.m3u8"
-        }, 
-        {
-            "name": "云南卫视", 
-            "url": "http://223.110.245.159/ott.js.chinamobile.com/PLTV/3/224/3221225838/index.m3u8"
-        }, 
-        {
-            "name": "云南卫视", 
-            "url": "http://223.110.245.149/ott.js.chinamobile.com/PLTV/3/224/3221226083/index.m3u8"
         }, 
         {
             "name": "浙江卫视FHD", 
@@ -841,74 +913,6 @@
         {
             "name": "浙江卫视FHD", 
             "url": "http://223.110.245.143/ott.js.chinamobile.com/PLTV/3/224/3221227483/index.m3u8"
-        },
-        {
-            "name": "湖北卫视FHD", 
-            "url": "http://223.110.245.170/ott.js.chinamobile.com/PLTV/3/224/3221227211/index.m3u8"
-        }, 
-        {
-            "name": "湖南卫视FHD", 
-            "url": "http://223.110.245.170/ott.js.chinamobile.com/PLTV/3/224/3221227191/index.m3u8"
-        }, 
-        {
-            "name": "湖南卫视FHD", 
-            "url": "http://223.110.245.170/ott.js.chinamobile.com/PLTV/3/224/3221227220/index.m3u8"
-        }, 
-        {
-            "name": "江苏卫视FHD", 
-            "url": "http://223.110.245.170/ott.js.chinamobile.com/PLTV/3/224/3221227185/index.m3u8"
-        }, 
-        {
-            "name": "江苏卫视FHD", 
-            "url": "http://223.110.245.170/ott.js.chinamobile.com/PLTV/3/224/3221227255/index.m3u8"
-        }, 
-        {
-            "name": "江西卫视FHD", 
-            "url": "http://223.110.245.170/ott.js.chinamobile.com/PLTV/3/224/3221225536/index.m3u8"
-        }, 
-        {
-            "name": "江西卫视FHD", 
-            "url": "http://223.110.245.170/ott.js.chinamobile.com/PLTV/3/224/3221227214/index.m3u8"
-        }, 
-        {
-            "name": "辽宁卫视FHD", 
-            "url": "http://223.110.245.170/ott.js.chinamobile.com/PLTV/3/224/3221225566/index.m3u8"
-        }, 
-        {
-            "name": "山东卫视FHD", 
-            "url": "http://223.110.245.170/ott.js.chinamobile.com/PLTV/3/224/3221227258/index.m3u8"
-        }, 
-        {
-            "name": "上海卫视", 
-            "url": "http://223.110.245.170/ott.js.chinamobile.com/PLTV/3/224/3221225558/index.m3u8"
-        }, 
-        {
-            "name": "上海卫视FHD", 
-            "url": "http://223.110.245.170/ott.js.chinamobile.com/PLTV/3/224/3221227208/index.m3u8"
-        }, 
-        {
-            "name": "深圳卫视FHD", 
-            "url": "http://223.110.245.170/ott.js.chinamobile.com/PLTV/3/224/3221227217/index.m3u8"
-        }, 
-        {
-            "name": "四川卫视", 
-            "url": "http://223.110.245.170/ott.js.chinamobile.com/PLTV/3/224/3221225570/index.m3u8"
-        }, 
-        {
-            "name": "天津卫视", 
-            "url": "http://223.110.245.170/ott.js.chinamobile.com/PLTV/3/224/3221225562/index.m3u8"
-        }, 
-        {
-            "name": "天津卫视FHD", 
-            "url": "http://223.110.245.170/ott.js.chinamobile.com/PLTV/3/224/3221227212/index.m3u8"
-        }, 
-        {
-            "name": "青海卫视", 
-            "url": "http://223.110.245.170/ott.js.chinamobile.com/PLTV/3/224/3221225580/index.m3u8"
-        }, 
-        {
-            "name": "云南卫视", 
-            "url": "http://223.110.245.170/ott.js.chinamobile.com/PLTV/3/224/3221225591/index.m3u8"
         }, 
         {
             "name": "浙江卫视FHD", 
@@ -919,21 +923,13 @@
             "url": "http://223.110.245.170/ott.js.chinamobile.com/PLTV/3/224/3221227215/index.m3u8"
         }, 
         {
-            "name": "重庆卫视", 
-            "url": "http://223.110.245.170/ott.js.chinamobile.com/PLTV/3/224/3221225594/index.m3u8"
-        }, 
-        {
-            "name": "重庆卫视FHD", 
-            "url": "http://223.110.245.170/ott.js.chinamobile.com/PLTV/3/224/3221227421/index.m3u8"
-        }, 
-        {
-            "name": "西藏卫视", 
-            "url": "http://223.110.245.170/ott.js.chinamobile.com/PLTV/3/224/3221225579/index.m3u8"
+            "name": "旅游卫视", 
+            "url": "http://stream1.hnntv.cn/lywsgq/sd/live.m3u8"
         },
         {
-            "name": "江西卫视FHD", 
-            "url": "http://223.110.245.159/ott.js.chinamobile.com/PLTV/3/224/3221227214/index.m3u8"
-        }, 
+            "name": "辽宁卫视", 
+            "url": "http://ott.js.chinamobile.com/PLTV/3/224/3221225566/index.m3u8"
+        },
         {
             "name": "辽宁卫视", 
             "url": "http://223.110.245.147/ott.js.chinamobile.com/PLTV/3/224/3221226061/index.m3u8"
@@ -941,7 +937,71 @@
         {
             "name": "辽宁卫视FHD", 
             "url": "http://223.110.245.145/ott.js.chinamobile.com/PLTV/3/224/3221227410/index.m3u8"
+        },  
+        {
+            "name": "辽宁卫视FHD", 
+            "url": "http://223.110.245.170/ott.js.chinamobile.com/PLTV/3/224/3221225566/index.m3u8"
+        },                 
+        {
+            "name": "兵团卫视", 
+            "url": "http://ott.js.chinamobile.com/PLTV/4/224/3221227025/index.m3u8"
+        },
+        {
+            "name": "兵团卫视", 
+            "url": "http://223.110.245.165/ott.js.chinamobile.com/PLTV/3/224/3221227205/index.m3u8"
         }, 
+        {
+            "name": "新疆兵团", 
+            "url": "rtmp://v.btzx.com.cn/live/weishi.stream"
+        },  
+        {
+            "name": "东南卫视", 
+            "url": "http://ott.js.chinamobile.com/PLTV/3/224/3221225598/index.m3u8"
+        },          
+        {
+            "name": "内蒙古", 
+            "url": "http://223.110.245.161/ott.js.chinamobile.com/PLTV/3/224/3221225836/index.m3u8"
+        }, 
+        {
+            "name": "内蒙古", 
+            "url": "http://223.110.245.153/ott.js.chinamobile.com/PLTV/3/224/3221226077/index.m3u8"
+        }, 
+        {
+            "name": "内蒙古卫视", 
+            "url": "http://ott.fj.chinamobile.com/PLTV/88888888/224/3221225846/index.m3u8"
+        },
+        {
+            "name": "云南卫视", 
+            "url": "http://ott.fj.chinamobile.com/PLTV/88888888/224/3221225853/index.m3u8"
+        }, 
+        {
+            "name": "云南卫视", 
+            "url": "http://223.110.245.157/ott.js.chinamobile.com/PLTV/3/224/3221225591/index.m3u8"
+        }, 
+        {
+            "name": "云南卫视", 
+            "url": "http://223.110.245.159/ott.js.chinamobile.com/PLTV/3/224/3221225838/index.m3u8"
+        }, 
+        {
+            "name": "云南卫视", 
+            "url": "http://223.110.245.149/ott.js.chinamobile.com/PLTV/3/224/3221226083/index.m3u8"
+        },              
+        {
+            "name": "云南卫视", 
+            "url": "http://223.110.245.170/ott.js.chinamobile.com/PLTV/3/224/3221225591/index.m3u8"
+        },
+        {
+            "name": "安徽卫视", 
+            "url": "http://ott.js.chinamobile.com/PLTV/3/224/3221225634/index.m3u8"
+        },
+        {
+            "name": "安徽卫视", 
+            "url": "http://223.110.245.143/ott.js.chinamobile.com/PLTV/3/224/3221225800/index.m3u8"
+        }, 
+        {
+            "name": "安徽卫视FHD", 
+            "url": "http://223.110.245.147/ott.js.chinamobile.com/PLTV/3/224/3221225634/index.m3u8"
+        },
         {
             "name": "安徽卫视FHD", 
             "url": "http://223.110.245.170/ott.js.chinamobile.com/PLTV/3/224/3221225634/index.m3u8"
@@ -949,39 +1009,11 @@
         {
             "name": "安徽卫视FHD", 
             "url": "http://223.110.245.170/ott.js.chinamobile.com/PLTV/3/224/3221227474/index.m3u8"
-        }, 
-        {
-            "name": "北京卫视FHD", 
-            "url": "http://223.110.245.170/ott.js.chinamobile.com/PLTV/3/224/3221227246/index.m3u8"
-        }, 
-        {
-            "name": "甘肃卫视", 
-            "url": "http://223.110.245.170/ott.js.chinamobile.com/PLTV/3/224/3221225590/index.m3u8"
-        }, 
-        {
-            "name": "广东卫视", 
-            "url": "http://223.110.245.170/ott.js.chinamobile.com/PLTV/3/224/3221225578/index.m3u8"
-        }, 
-        {
-            "name": "广东卫视FHD", 
-            "url": "http://223.110.245.170/ott.js.chinamobile.com/PLTV/3/224/3221227249/index.m3u8"
-        }, 
-        {
-            "name": "广东卫视HD", 
-            "url": "http://223.110.245.170/ott.js.chinamobile.com/PLTV/3/224/3221225592/index.m3u8"
-        }, 
-        {
-            "name": "河北卫视", 
-            "url": "http://223.110.245.170/ott.js.chinamobile.com/PLTV/3/224/3221225602/index.m3u8"
-        }, 
+        },       
         {
             "name": "延边卫视", 
             "url": "http://223.110.245.161/ott.js.chinamobile.com/PLTV/3/224/3221227002/index.m3u8"
-        },
-        {
-            "name": "重庆卫视", 
-            "url": "http://223.110.245.151/ott.js.chinamobile.com/PLTV/3/224/3221225594/index.m3u8"
-        }, 
+        },         
         {
             "name": "CETV1", 
             "url": "http://223.110.245.143/ott.js.chinamobile.com/PLTV/3/224/3221225622/index.m3u8"
@@ -1133,11 +1165,7 @@
         {
             "name": "BesTV中国功夫", 
             "url": "http://223.110.245.165/ott.js.chinamobile.com/PLTV/3/224/3221226935/index.m3u8"
-        },         
-        {
-            "name": "东方财经", 
-            "url": "http://223.110.245.157/ott.js.chinamobile.com/PLTV/3/224/3221226033/index.m3u8"
-        }, 
+        },   
         {
             "name": "都市剧场", 
             "url": "http://223.110.245.149/ott.js.chinamobile.com/PLTV/3/224/3221226029/index.m3u8"
@@ -1145,47 +1173,11 @@
         {
             "name": "国学与家道HD", 
             "url": "http://223.110.245.147/ott.js.chinamobile.com/PLTV/3/224/3221226392/index.m3u8"
-        },         
-        {
-            "name": "黑龙江FHD", 
-            "url": "http://223.110.245.163/ott.js.chinamobile.com/PLTV/3/224/3221227252/index.m3u8"
-        }, 
-        {
-            "name": "黑龙江FHD", 
-            "url": "http://223.110.245.165/ott.js.chinamobile.com/PLTV/3/224/3221227323/index.m3u8"
-        }, 
-        {
-            "name": "黑龙江FHD", 
-            "url": "http://223.110.245.161/ott.js.chinamobile.com/PLTV/3/224/3221227492/index.m3u8"
-        }, 
-        {
-            "name": "江苏城市", 
-            "url": "http://223.110.245.143/ott.js.chinamobile.com/PLTV/3/224/3221225929/index.m3u8"
-        }, 
-        {
-            "name": "江苏教育", 
-            "url": "http://223.110.245.151/ott.js.chinamobile.com/PLTV/3/224/3221225923/index.m3u8"
-        },         
-        {
-            "name": "江苏休闲体育", 
-            "url": "http://223.110.245.157/ott.js.chinamobile.com/PLTV/3/224/3221225935/index.m3u8"
-        },                         
+        },
         {
             "name": "南京教科", 
             "url": "http://223.110.245.155/ott.js.chinamobile.com/PLTV/3/224/3221227194/index.m3u8"
         }, 
-        {
-            "name": "内蒙古", 
-            "url": "http://223.110.245.161/ott.js.chinamobile.com/PLTV/3/224/3221225836/index.m3u8"
-        }, 
-        {
-            "name": "内蒙古", 
-            "url": "http://223.110.245.153/ott.js.chinamobile.com/PLTV/3/224/3221226077/index.m3u8"
-        },         
-        {
-            "name": "上海纪实HD", 
-            "url": "http://223.110.245.155/ott.js.chinamobile.com/PLTV/3/224/3221227420/index.m3u8"
-        },          
         {
             "name": "生活频道", 
             "url": "http://223.110.245.153/ott.js.chinamobile.com/PLTV/3/224/3221227311/index.m3u8"
@@ -1193,14 +1185,6 @@
         {
             "name": "五星体育HD", 
             "url": "http://223.110.245.147/ott.js.chinamobile.com/PLTV/3/224/3221226799/index.m3u8"
-        },         
-        {
-            "name": "新疆兵团", 
-            "url": "rtmp://v.btzx.com.cn/live/weishi.stream"
-        }, 
-        {
-            "name": "新闻", 
-            "url": "http://223.110.245.157/ott.js.chinamobile.com/PLTV/3/224/3221226601/index.m3u8"
         }, 
         {
             "name": "新娱乐", 
@@ -1241,19 +1225,14 @@
         {
             "name": "SDETV", 
             "url": "http://223.110.245.170/ott.js.chinamobile.com/PLTV/3/224/3221225614/index.m3u8"
-        },         
-        {
-            "name": "黑龙江FHD", 
-            "url": "http://223.110.245.170/ott.js.chinamobile.com/PLTV/3/224/3221227252/index.m3u8"
         }, 
-        {
-            "name": "黑龙江FHD", 
-            "url": "http://223.110.245.170/ott.js.chinamobile.com/PLTV/3/224/3221227477/index.m3u8"
-        }, 
-         
         {
             "name": "国学与家道", 
             "url": "http://223.110.245.170/ott.js.chinamobile.com/PLTV/3/224/3221226392/index.m3u8"
+        }, 
+        {
+            "name": "新闻", 
+            "url": "http://223.110.245.157/ott.js.chinamobile.com/PLTV/3/224/3221226601/index.m3u8"
         }, 
         {
             "name": "新闻HD", 
@@ -1262,7 +1241,6 @@
         {
             "name": "京视剧场", 
             "url": "http://223.110.245.143/ott.js.chinamobile.com/PLTV/3/224/3221227040/index.m3u8"
-        }   
-        
+        }
     ]
 }

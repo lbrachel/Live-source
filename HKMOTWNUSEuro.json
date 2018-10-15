@@ -165,15 +165,15 @@
         { 
             "name": "kbs韩国国际电台1", 
             "url": "kbs1,http://hls.live.kbskme.gscdn.com/www_1tv/_definst_/1tv_5.stream/chunklist_w373353568.m3u8?tid=d7ce7e33a4eedafa58f6b09ee04a5f87"
-        }，
+        },
         { 
             "name": "kbs韩国国际电台2", 
             "url": "kbs2,http://hls.live.kbskme.gscdn.com/www_2tv/_definst_/2tv_5.stream/chunklist_w817618885.m3u8?tid=55b1e64461c38b140eda1605f886d582"
-        }，
+        },
         { 
             "name": "kbs韩国国际电台3", 
             "url": "http://m2otv-lh.akamaihd.net/i/m2oTv_1@186074/index_600_av-b.m3u8"
-        }，
+        },
         { 
             "name": "MBC", 
             "url": "http://www.pickcom.co.kr:1935/sjp/live07/chunklist_w2107750490.m3u8?site=speedtv&ch=live07&pm=P"

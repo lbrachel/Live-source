@@ -845,11 +845,7 @@
         {
             "name": "重庆卫视", 
             "url": "http://223.110.245.170/ott.js.chinamobile.com/PLTV/3/224/3221225594/index.m3u8"
-        }, 
-        {
-            "name": "重庆卫视FHD", 
-            "url": "http://223.110.245.170/ott.js.chinamobile.com/PLTV/3/224/3221227421/index.m3u8"
-        },  
+        },
         {
             "name": "东方卫视", 
             "url": "http://ott.js.chinamobile.com/PLTV/3/224/3221227208/index.m3u8"
@@ -866,14 +862,6 @@
             "name": "江西卫视FHD", 
             "url": "http://223.110.245.170/ott.js.chinamobile.com/PLTV/3/224/3221225536/index.m3u8"
         }, 
-        {
-            "name": "江西卫视FHD", 
-            "url": "http://223.110.245.170/ott.js.chinamobile.com/PLTV/3/224/3221227214/index.m3u8"
-        }, 
-        {
-            "name": "江西卫视FHD", 
-            "url": "http://223.110.245.159/ott.js.chinamobile.com/PLTV/3/224/3221227214/index.m3u8"
-        },
         {
             "name": "黑龙江卫视", 
             "url": "http://223.110.243.169/PLTV/3/224/3221227252/index.m3u8"
@@ -1018,14 +1006,6 @@
             "name": "CETV1", 
             "url": "http://223.110.245.143/ott.js.chinamobile.com/PLTV/3/224/3221225622/index.m3u8"
         }, 
-        {
-            "name": "CETV1", 
-            "url": "http://223.110.245.143/ott.js.chinamobile.com/PLTV/3/224/3221227333/index.m3u8"
-        }, 
-        {
-            "name": "CETV1", 
-            "url": "http://223.110.245.143/ott.js.chinamobile.com/PLTV/3/224/3221227355/index.m3u8"
-        },
         {
             "name": "CETV1", 
             "url": "http://223.110.245.170/ott.js.chinamobile.com/PLTV/3/224/3221225622/index.m3u8"
@@ -1189,11 +1169,7 @@
         {
             "name": "新娱乐", 
             "url": "http://223.110.245.141/ott.js.chinamobile.com/PLTV/3/224/3221227021/index.m3u8"
-        }, 
-        {
-            "name": "幸福彩", 
-            "url": "http://223.110.245.163/ott.js.chinamobile.com/PLTV/3/224/3221227447/index.m3u8"
-        },           
+        },      
         {
             "name": "置业频道", 
             "url": "http://223.110.245.161/ott.js.chinamobile.com/PLTV/3/224/3221227037/index.m3u8"
@@ -1205,11 +1181,7 @@
         {
             "name": "中国交通", 
             "url": "http://223.110.245.165/ott.js.chinamobile.com/PLTV/3/224/3221227207/index.m3u8"
-        }, 
-        {
-            "name": "中国气象频道", 
-            "url": "http://223.110.245.157/ott.js.chinamobile.com/PLTV/3/224/3221227438/index.m3u8"
-        }, 
+        },         
         {
             "name": "中华美食", 
             "url": "http://223.110.245.147/ott.js.chinamobile.com/PLTV/3/224/3221227024/index.m3u8"
@@ -1225,10 +1197,6 @@
         {
             "name": "SDETV", 
             "url": "http://223.110.245.170/ott.js.chinamobile.com/PLTV/3/224/3221225614/index.m3u8"
-        }, 
-        {
-            "name": "国学与家道", 
-            "url": "http://223.110.245.170/ott.js.chinamobile.com/PLTV/3/224/3221226392/index.m3u8"
         }, 
         {
             "name": "新闻", 

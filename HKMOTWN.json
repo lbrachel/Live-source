@@ -15,9 +15,25 @@
             "url": "http://ott.fj.chinamobile.com/PLTV/88888888/224/3221225900/index.m3u8"
         },
         {
+            "name": "凤凰中文HD", 
+            "url": "http://223.110.245.167/ott.js.chinamobile.com/PLTV/3/224/3221226922/index.m3u8"
+        }, 
+        {
+            "name": "凤凰中文HD", 
+            "url": "http://223.110.245.139/ott.js.chinamobile.com/PLTV/3/224/3221226977/index.m3u8"
+        }, 
+        {
+            "name": "凤凰资讯HD", 
+            "url": "http://223.110.245.167/ott.js.chinamobile.com/PLTV/3/224/3221226923/index.m3u8"
+        },         
+        {
             "name": "凤凰资讯HD", 
             "url": "http://223.110.245.170/ott.js.chinamobile.com/PLTV/3/224/3221226923/index.m3u8"
-        }, 
+        },
+        {
+            "name": "凤凰资讯HD", 
+            "url": "http://223.110.245.139/ott.js.chinamobile.com/PLTV/3/224/3221226980/index.m3u8"
+        },        
         {
             "name": "凤凰资讯台", 
             "url": "http://ott.fj.chinamobile.com/PLTV/88888888/224/3221225901/index.m3u8"

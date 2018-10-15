@@ -137,14 +137,14 @@
         {
             "name": "TLC", 
             "url": "http://59.125.55.79:9008/9008.m3u8"
+        },                 
+        {
+            "name": "--- 欧美 ---",
+            "url": ""
         },
         {
             "name": "国家地理", 
             "url": "http://cdn2.bear-tv.com/freetv/TOT_National_Geographic_eng/chunks.m3u8"
-        },         
-        {
-            "name": "--- 欧美 ---",
-            "url": ""
         },
         { 
             "name": "美国有线电视CNN", 
@@ -161,6 +161,10 @@
         { 
             "name": "原始生活21天", 
             "url": "https://aldirect.hls.huya.com:443/huyalive/29359996-2689646434-11551943471833022464-2847699146-10057-A-1525507126-1_1200.m3u8"
+        },
+        {
+            "name": "--- 日韩 ---",
+            "url": ""
         },        
         { 
             "name": "kbs韩国国际电台1", 
@@ -175,7 +179,7 @@
             "url": "http://m2otv-lh.akamaihd.net/i/m2oTv_1@186074/index_600_av-b.m3u8"
         },
         { 
-            "name": "MBC", 
+            "name": "韩国文化广播公司MBC", 
             "url": "http://www.pickcom.co.kr:1935/sjp/live07/chunklist_w2107750490.m3u8?site=speedtv&ch=live07&pm=P"
         }        
         

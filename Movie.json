@@ -57,7 +57,11 @@
         {
             "name": "黄渤", 
             "url": "https://aldirect.hls.huya.com/huyalive/30765679-2554414680-10971127511022305280-3048991634-10057-A-0-1_1200.m3u8"
-        },
+        }, 
+        {
+            "name": "梁朝伟", 
+            "url": "http://aldirect.hls.huya.com/huyalive/30765679-2554414705-10971127618396487680-3048991636-10057-A-0-1_1200.m3u8"
+        },        
         {
             "name": "古天乐", 
             "url": "http://ws4.streamhls.huya.com/huyalive/29359996-2689607114-11551774593718943744-2847687530-10057-A-1525492553-1_1200/playlist.m3u8"
@@ -147,9 +151,17 @@
             "url": "http://al.hls.huya.com/huyalive/94525224-2460686093-10568566295157014528-2789253848-10057-A-0-1.m3u8"
         },
         {
+            "name": "五福星电影轮播", 
+            "url": "http://aldirect.hls.huya.com/huyalive/29169025-2686220040-11537227221659811840-2713685416-10057-A-1524041498-1_1200.m3u8"
+        },
+        {
+            "name": "警匪电影轮播", 
+            "url": "http://aldirect.hls.huya.com/huyalive/29169025-2686220598-11537229618251563008-2847687556-10057-A-1524043048-1_1200.m3u8"
+        },
+        {
             "name": "香港经典电影轮播", 
             "url": "http://aldirect.hls.huya.com/huyalive/94525224-2472147404-10617792251071299584-2777026638-10057-A-0-1_1200.m3u8"
-        },        
+        },
         {
             "name": "FOX-HD电影台", 
             "url": "http://aldirect.hls.huya.com/huyalive/94525224-2467341872-10597152648291418112-2789274550-10057-A-0-1_1200.m3u8"
@@ -169,6 +181,14 @@
         {
             "name": "影视剧频道", 
             "url": "http://223.110.245.157/ott.js.chinamobile.com/PLTV/3/224/3221227372/index.m3u8"
+        },          
+        {
+            "name": "广东影视频道", 
+            "url": "http://nclive.grtn.cn/tvs4/sd/live.m3u8"
+        },
+        {
+            "name": "济南影视频道", 
+            "url": "http://ts1.ijntv.cn/yshd/hd/live.m3u8"
         },
         {
             "name": "蟲妹妹", 

@@ -267,9 +267,21 @@
             "url": "rtmp://58.200.131.3:1935/livetv/chchd"
         },
         {
+            "name": "CHC高清", 
+            "url": "rtmp://ivi.bupt.edu.cn/livetv/chchd"
+        },
+        {
             "name": "CHC动作", 
             "url": "http://hbmc.chinashadt.com:2739/live/dzdy.stream_360p/playlist.m3u8"
-        },    
+        },
+        {
+            "name": "CHC动作", 
+            "url": "http://hbmc.chinashadt.com:2739/live/dzdy.stream_360p/chunklist_w1982553047.m3u8"
+        },
+        {
+            "name": "CHC动作", 
+            "url": "http://hbly.chinashadt.com:2046/live/1004.stream/chunklist_w841885902.m3u8"
+        },      
         {
             "name": "CBN每日影院", 
             "url": "http://42.48.60.248:8082/live/gqts-800k.m3u8"
@@ -333,7 +345,6 @@
         {
             "name": "恶作剧之吻轮播", 
             "url": "http://flv3.quanmin.tv/live/3766_2134506790.m3u8"
-        }        
-        
+        }  
     ]
 }

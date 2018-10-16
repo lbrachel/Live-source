@@ -55,6 +55,30 @@
             "url": "http://zhibo.hkstv.tv/livestream/zb2yhapo/playlist.m3u8"
         },    
         {
+            "name": "香港卫视", 
+            "url": "http://live.hkstv.hk.lxdns.com/live/hks/playlist.m3u8"
+        },  
+        {
+            "name": "翡翠台", 
+            "url": "http://3737.liveplay.myqcloud.com/live/jade_900.m3u8"
+        }, 
+        {
+            "name": "翡翠台", 
+            "url": "http://m.567it.com/jade.m3u8"
+        }, 
+        {
+            "name": "翡翠台", 
+            "url": "http://3737.liveplay.myqcloud.com/live/jade_900.m3u8"
+        }, 
+        {
+            "name": "无线财经台", 
+            "url": "http://e1.vdowowza.vip.hk1.tvb.com/tvblive/smil:mobilehd_financeintl.smil/chunklist_w1286040896_b224000.m3u8"
+        }, 
+        {
+            "name": "无线财经台", 
+            "url": "http://e1.vdowowza.vip.hk1.tvb.com/tvblive/smil:mobilehd_financeintl.smil/chunklist.m3u8"
+        },
+        {
             "name": "环球电视台UTV", 
             "url": "http://live-cdn.xzxwhcb.com/hls/r86am856.m3u8"
         },
@@ -63,8 +87,60 @@
             "url": "http://stream.mastvnet.com/MSTV/SD/live.m3u8"
         },
         {
-            "name": "澳门澳亚卫视", 
-            "url": "http://stream.mastvnet.com/MSTV/SD/live.m3u8"
+            "name": "澳亚卫视", 
+            "url": "http://stream.mastvnet.com/MASTV/sd/live.m3u8"
+        },
+        {
+            "name": "澳视资讯", 
+            "url": "http://103.233.191.134:1935/ch5/info_ch5.live/playlist.m3u8"
+        },
+        {
+            "name": "澳视资讯", 
+            "url": "http://103.233.191.135:1935/ch5/info_ch5.live/playlist.m3u8"
+        },
+        {
+            "name": "澳视资讯", 
+            "url": "http://103.233.191.136:1935/ch5/info_ch5.live/playlist.m3u8"
+        },
+        {
+            "name": "澳视体育", 
+            "url": "http://103.233.191.134:1935/ch4/sport_ch4.live/playlist.m3u8"
+        },
+        {
+            "name": "澳视体育", 
+            "url": "http://103.233.191.135:1935/ch4/sport_ch4.live/playlist.m3u8"
+        },
+        {
+            "name": "澳视体育", 
+            "url": "http://103.233.191.136:1935/ch4/sport_ch4.live/playlist.m3u8"
+        },
+        {
+            "name": "澳视卫星", 
+            "url": "http://103.233.191.134:1935/ch3/ch3.live/playlist.m3u8"
+        },
+        {
+            "name": "澳视卫星", 
+            "url": "http://103.233.191.135:1935/ch3/ch3.live/playlist.m3u8"
+        },
+        {
+            "name": "澳视卫星", 
+            "url": "http://103.233.191.136:1935/ch3/ch3.live/playlist.m3u8"
+        },
+        {
+            "name": "澳视澳门", 
+            "url": "http://103.233.191.134:1935/ch1/ch1.live/playlist.m3u8"
+        },
+        {
+            "name": "澳视澳门", 
+            "url": "http://103.233.191.136:1935/ch1/ch1.live/playlist.m3u8"
+        },
+        {
+            "name": "澳视澳门", 
+            "url": "http://103.233.191.135:1935/ch1/ch1.live/playlist.m3u8"
+        },
+        {
+            "name": "星空卫视", 
+            "url": "http://222.207.48.30/hls/startv.m3u8"
         },
         {
             "name": "东森新闻", 
@@ -89,14 +165,22 @@
         {
             "name": "年代新闻", 
             "url": "http://60.250.23.14:18080/eranews/index.m3u8"
-        }, 
-        {
-            "name": "翡翠台", 
-            "url": "http://3737.liveplay.myqcloud.com/live/jade_900.m3u8"
-        }, 
+        },         
         {
             "name": "三立台湾", 
             "url": "http://125.227.35.176:18080/set/index.m3u8"
+        },         
+        {
+            "name": "壹电视新闻", 
+            "url": "http://d2e6xlgy8sg8ji.cloudfront.net/liveedge/eratv3/chunklist.m3u8"
+        },         
+        {
+            "name": "壹电视新闻", 
+            "url": "http://d2e6xlgy8sg8ji.cloudfront.net/liveedge/eratv2/chunklist.m3u8"
+        },         
+        {
+            "name": "壹电视新闻", 
+            "url": "http://d2e6xlgy8sg8ji.cloudfront.net/liveedge/eratv1/chunklist.m3u8"
         }, 
         {
             "name": "中天新闻HD", 
@@ -113,6 +197,10 @@
         {
             "name": "TVB", 
             "url": "http://pullhls6.inke.cn/live/1539563677248699/playlist.m3u8"
+        },  
+        {
+            "name": "TVB星河", 
+            "url": "http://59.125.55.79:60001/60002.m3u8"
         }, 
         {
             "name": "HBO强档", 

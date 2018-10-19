@@ -34,10 +34,13 @@
             "name": "演唱会", 
             "url": "http://flv3.quanmin.tv/live/3766_1526312810.m3u8"
         }, 
+        {
+            "name": "迈克尔杰克逊", 
+            "url": "http://dd.yinyuetai.com/uploads/videos/common/408332_mb.mp4?sc=8e748655de8cbc97"
+        }, 
         { 
             "name": "外国音乐频道", 
             "url": "http://m2otv-lh.akamaihd.net/i/m2oTv_1@186074/index_600_av-b.m3u8"
         }        
     ]
 }
-

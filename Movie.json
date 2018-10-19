@@ -1,350 +1,618 @@
 {
-    "uuid": "64350b50-a810-4901-b86b-7a5106bdef2c", 
-    "title": "影视", 
+    "uuid": "64350b50-a810-4901-b86b-7a5106bdef2c",
+    "title": "影视",
     "channels": [
         {
-            "name": "甄子丹", 
+            "name": "甄子丹",
             "url": "http://aldirect.hls.huya.com/huyalive/28466698-2689658976-11551997339312848896-2789274534-10057-A-0-1.m3u8"
         },
         {
-            "name": "甄子丹", 
+            "name": "甄子丹",
             "url": "http://ws4.streamhls.huya.com/huyalive/29169025-2686219938-11537226783573147648-2847699096-10057-A-1524024759-1_1200/playlist.m3u8"
         },
         {
-            "name": "周星驰", 
+            "name": "周星驰",
             "url": "http://aldirect.hls.huya.com/huyalive/94525224-2460685313-10568562945082523648-2789274524-10057-A-0-1_1200.m3u8"
         },
         {
-            "name": "周星驰", 
-            "url": "http://ws4.streamhls.huya.com/huyalive/94525224-2460685313-10568562945082523648-2789274524-10057-A-0-1_1200/playlist.m3u8"
+            "name": "周星驰",
+            "url": "http://ws4.streamhls.huya.com/huyalive/94525224-2460685313-10568562945082523648-2789274524-10057-A-0-1_1200.m3u8"
         },
         {
-            "name": "林正英", 
+            "name": "林正英",
             "url": "http://aldirect.hls.huya.com/huyalive/94525224-2460686034-10568566041753944064-2789274542-10057-A-0-1_1200.m3u8"
         },
         {
-            "name": "4K影视", 
+            "name": "4K影视",
             "url": "http://39.134.176.130/PLTV/88888888/224/3221226539/index.m3u8"
         },
         {
-            "name": "刘德华1", 
+            "name": "刘德华1",
             "url": "http://ws4.streamhls.huya.com/huyalive/94525224-2467341872-10597152648291418112-2789274550-10057-A-0-1_1200/playlist.m3u8"
         },
         {
-            "name": "刘德华2", 
+            "name": "刘德华2",
             "url": "http://ws4.streamhls.huya.com/huyalive/94525224-2467341872-10597152648291418112-2789274550-10057-A-0-1_1200/playlist.m3u8"
         },
         {
-            "name": "周润发1", 
+            "name": "刘德华3",
+            "url": "http://berwe.fzszyx.com:22224/cibn/?t=berwe86"
+        },
+        {
+            "name": "周润发1",
             "url": "http://aldirect.hls.huya.com/huyalive/28466698-2689658976-11551997339312848896-2789274534-10057-A-0-1_1200.m3u8"
         },
         {
-            "name": "周润发2", 
+            "name": "周润发2",
             "url": "http://aldirect.hls.huya.com/huyalive/94525224-2460685774-10568564925062447104-2789253840-10057-A-0-1_1200.m3u8"
         },
         {
-            "name": "王晶", 
+            "name": "王晶",
             "url": "http://aldirect.hls.huya.com/huyalive/94525224-2579683592-11079656661667807232-2847687574-10057-A-0-1_1200.m3u8"
-        },              
+        },
         {
-            "name": "成龙1", 
+            "name": "成龙",
             "url": "https://aldirect.hls.huya.com/huyalive/94525224-2460685722-10568564701724147712-2789253838-10057-A-0-1_1200.m3u8"
         },
         {
-            "name": "成龙2", 
-            "url": "http://aldirect.hls.huya.com/huyalive/94525224-2460685722-10568564701724147712-2789253838-10057-A-0-1_1200.m3u8"  
+            "name": "成龙",
+            "url": "http://berwe.fzszyx.com:22224/cibn/?t=berwe121"
         },
         {
-            "name": "黄渤", 
+            "name": "黄渤",
             "url": "https://aldirect.hls.huya.com/huyalive/30765679-2554414680-10971127511022305280-3048991634-10057-A-0-1_1200.m3u8"
-        }, 
+        },
         {
-            "name": "梁朝伟", 
+            "name": "梁朝伟",
             "url": "http://aldirect.hls.huya.com/huyalive/30765679-2554414705-10971127618396487680-3048991636-10057-A-0-1_1200.m3u8"
-        },        
+        },
         {
-            "name": "古天乐", 
+            "name": "古天乐",
             "url": "http://ws4.streamhls.huya.com/huyalive/29359996-2689607114-11551774593718943744-2847687530-10057-A-1525492553-1_1200/playlist.m3u8"
+        },
+        {
+            "name": "古天乐",
+            "url": "http://berwe.fzszyx.com:22224/cibn/?t=berwe87"
+        },
+        {
+            "name": "周润发",
+            "url": "http://berwe.fzszyx.com:22224/cibn/?t=berwe63"
+        },
+        {
+            "name": "黄百鸣",
+            "url": "http://ws4.streamhls.huya.com/huyalive/29169025-2686220062-11537227316149092352-2777037828-10057-A-1524041857-1_1200/playlist.m3u8"
+        },
+        {
+            "name": "张国荣",
+            "url": "http://berwe.fzszyx.com:22224/cibn/?t=berwe168"
+        },
+        {
+            "name": "曾志伟",
+            "url": "http://berwe.fzszyx.com:22224/cibn/?t=berwe172"
+        },
+        {
+            "name": "冯小刚",
+            "url": "http://www.lanjianbeer.com/mtv/dlcsfz/cibn.php?id=133"
+        },
+        {
+            "name": "彭于晏",
+            "url": "http://www.lanjianbeer.com/mtv/dlcsfz/cibn.php?id=122"
+        },
+        {
+            "name": "徐克导演",
+            "url": "http://tx.hls.huya.com/huyalive/29106097-2689447148-11551087544980471808-2789253872-10057-A-1525420294-1.m3u8"
+        },
+        {
+            "name": "y'y'y",
+            "url": "htt"
+        },
+        {
+            "name": "y'y'y",
+            "url": "htt"
+        },
+        {
+            "name": "y'y'y",
+            "url": "htt"
+        },
+        {
+            "name": "黄日华",
+            "url": "http://ws4.streamhls.huya.com/huyalive/30765679-2523417506-10837995662423883776-2777071322-10057-A-0-1_1200/playlist.m3u8"
         },
         {
             "name": "李连杰1",
             "url": "http://ws4.streamhls.huya.com/huyalive/29106097-2689447148-11551087544980471808-2789253872-10057-A-1525420294-1_1200/playlist.m3u8"
         },
         {
-            "name": "李连杰2", 
+            "name": "李连杰2",
             "url": "http://ws4.streamhls.huya.com/huyalive/94525224-2460686093-10568566295157014528-2789253848-10057-A-0-1_1200/playlist.m3u8"
-        },        
+        },
         {
-            "name": "洪金宝", 
+            "name": "洪金宝",
             "url": "http://tx.hls.huya.com/huyalive/29106097-2689406282-11550912026846953472-2789274558-10057-A-0-1_1200.m3u8"
         },
         {
-            "name": "徐峥", 
+            "name": "徐峥",
             "url": "https://aldirect.hls.huya.com/huyalive/29106097-2689278568-11550363499393712128-2710090468-10057-A-0-1_1200.m3u8"
         },
         {
-            "name": "陈小春", 
+            "name": "陈小春",
             "url": "http://ws4.streamhls.huya.com/huyalive/30765679-2523417522-10837995731143360512-2777068634-10057-A-0-1_1200/playlist.m3u8"
-        }, 
+        },
         {
-            "name": "斯坦森", 
+            "name": "斯坦森",
             "url": "https://ws4.streamhls.huya.com/huyalive/29106097-2689279104-11550365801496182784-2777026902-10057-A-0-1_1200/playlist.m3u8"
-        },  
+        },
         {
-            "name": "赌片合集", 
+            "name": "斯坦森",
+            "url": "http://tx.hls.huya.com/huyalive/30765679-2554414705-10971127618396487680-3048991636-10057-A-0-1.m3u8"
+        },
+        {
+            "name": "赌片合集",
             "url": "https://aldirect.hls.huya.com/huyalive/29106097-2689446042-11551082794746642432-2789253870-10057-A-0-1_1200.m3u8"
-        }, 
+        },
         {
-            "name": "好莱坞电影", 
+            "name": "好莱坞电影",
             "url": "http://tx.hls.huya.com/huyalive/30765679-2484192572-10669525853706125312-2847687498-10057-A-1521100607-1.m3u8"
-        },        
+        },
         {
-            "name": "高清电影轮播1", 
+            "name": "高清电影轮播1",
             "url": "http://aldirect.hls.huya.com/huyalive/94525224-2460685722-10568564701724147712-2789253838-10057-A-0-1_1200.m3u8"
         },
         {
-            "name": "高清电影轮播2", 
+            "name": "高清电影轮播2",
             "url": "http://tx.hls.huya.com/huyalive/29106097-2689406282-11550912026846953472-2789274558-10057-A-0-1_1200.m3u8"
         },
         {
-            "name": "电影轮播1", 
+            "name": "电影轮播1",
             "url": "http://flv3.quanmin.tv/live/3766_2046731300.m3u8"
         },
         {
-            "name": "电影轮播2", 
+            "name": "电影轮播2",
             "url": "http://flv3.quanmin.tv/live/3766_2035917884.m3u8"
         },
         {
-            "name": "电影轮播3", 
+            "name": "电影轮播3",
             "url": "http://flv3.quanmin.tv/live/3766_2046736702.m3u8"
         },
         {
-            "name": "电影轮播4", 
+            "name": "电影轮播4",
             "url": "http://flv3.quanmin.tv/live/3766_2029762870.m3u8"
         },
         {
-            "name": "电影轮播5", 
+            "name": "电影轮播5",
             "url": "http://flv3.quanmin.tv/live/3766_2044699692.m3u8"
         },
         {
-            "name": "电影轮播6", 
+            "name": "电影轮播6",
             "url": "http://flv3.quanmin.tv/live/3766_2046540092.m3u8"
         },
         {
-            "name": "电影轮播7", 
+            "name": "电影轮播7",
             "url": "http://flv3.quanmin.tv/live/3766_2038343220.m3u8"
         },
         {
-            "name": "电影轮播8", 
+            "name": "电影轮播8",
             "url": "http://flv3.quanmin.tv/live/3766_2116013880.m3u8"
         },
         {
-            "name": "电影轮播9", 
+            "name": "电影轮播9",
             "url": "http://flv3.quanmin.tv/live/3766_2034214452.m3u8"
         },
         {
-            "name": "电影轮播10", 
+            "name": "电影轮播10",
             "url": "http://dlhls.cdn.zhanqi.tv/zqlive/102444_ZGmRp.m3u8"
         },
         {
-            "name": "电影轮播11", 
+            "name": "电影轮播11",
             "url": "http://dlhls.cdn.zhanqi.tv/zqlive/49427_jmACJ.m3u8"
         },
         {
-            "name": "电影轮播12", 
+            "name": "电影轮播12",
             "url": "http://dlhls.cdn.zhanqi.tv/zqlive/7032_0s2qn.m3u8"
         },
         {
-            "name": "电影轮播13", 
+            "name": "电影轮播13",
             "url": "http://al.hls.huya.com/huyalive/94525224-2460686093-10568566295157014528-2789253848-10057-A-0-1.m3u8"
         },
         {
-            "name": "五福星电影轮播", 
+            "name": "五福星电影轮播",
             "url": "http://aldirect.hls.huya.com/huyalive/29169025-2686220040-11537227221659811840-2713685416-10057-A-1524041498-1_1200.m3u8"
         },
         {
-            "name": "警匪电影轮播", 
+            "name": "警匪电影轮播",
             "url": "http://aldirect.hls.huya.com/huyalive/29169025-2686220598-11537229618251563008-2847687556-10057-A-1524043048-1_1200.m3u8"
         },
         {
-            "name": "灾难电影轮播", 
+            "name": "灾难电影轮播",
             "url": "http://tx.hls.huya.com/huyalive/29359996-2689475864-11551210879261343744-2847699104-10057-A-1525430092-1.m3u8"
         },
         {
-            "name": "香港经典电影轮播", 
+            "name": "香港经典电影轮播",
             "url": "http://aldirect.hls.huya.com/huyalive/94525224-2472147404-10617792251071299584-2777026638-10057-A-0-1_1200.m3u8"
         },
         {
-            "name": "FOX-HD电影台", 
+            "name": "FOX-HD电影台",
             "url": "http://aldirect.hls.huya.com/huyalive/94525224-2467341872-10597152648291418112-2789274550-10057-A-0-1_1200.m3u8"
-        },        
+        },
         {
-            "name": "一族", 
+            "name": "一族",
             "url": "http://dlhls.cdn.zhanqi.tv/zqlive/96851_ZeePd.m3u8"
         },
         {
-            "name": "雪儿大家庭", 
+            "name": "雪儿大家庭",
             "url": "http://dlhls.cdn.zhanqi.tv/zqlive/35180_KUDhx.m3u8"
         },
         {
-            "name": "新电影", 
+            "name": "新电影",
             "url": "http://dlhls.cdn.zhanqi.tv/zqlive/49858_wgGj1.m3u8"
         },
         {
-            "name": "壹电影台", 
+            "name": "壹电影台",
             "url": "http://116.48.15.121:36570/hls/B14XX.m3u8?ex=1539599216&st=xhC7lwe9N-9bw8-b3bA7Cg"
         },
         {
-            "name": "影视剧频道", 
+            "name": "影视剧频道",
             "url": "http://223.110.245.157/ott.js.chinamobile.com/PLTV/3/224/3221227372/index.m3u8"
-        }, 
+        },
         {
-            "name": "河北影视频道", 
+            "name": "河北影视频道",
             "url": "http://weblive.hebtv.com/live/hbys_bq/index.m3u8"
-        },          
+        },
         {
-            "name": "广东影视频道", 
+            "name": "广东影视频道",
             "url": "http://nclive.grtn.cn/tvs4/sd/live.m3u8"
         },
         {
-            "name": "济南影视频道", 
+            "name": "济南影视频道",
             "url": "http://ts1.ijntv.cn/yshd/hd/live.m3u8"
         },
         {
-            "name": "黑龙江影视", 
+            "name": "黑龙江影视",
             "url": "http://stream2.hljtv.com/hljys/sd/live.m3u8?_upt=f730b4001539486447"
         },
         {
-            "name": "蟲妹妹", 
+            "name": "蟲妹妹",
             "url": "http://dlhls.cdn.zhanqi.tv/zqlive/53346_ESoth.m3u8"
-        },                
+        },
         {
-            "name": "Newtv电影", 
+            "name": "Newtv电影",
             "url": "http://ott.fj.chinamobile.com/PLTV/88888888/224/3221225804/index.m3u8"
         },
         {
-            "name": "Newtv惊悚", 
+            "name": "Newtv惊悚",
             "url": "http://ott.fj.chinamobile.com/PLTV/88888888/224/3221225885/index.m3u8"
         },
         {
-            "name": "Newtv精品", 
+            "name": "Newtv精品",
             "url": "http://ott.fj.chinamobile.com/PLTV/88888888/224/3221225891/index.m3u8"
         },
         {
-            "name": "Newtv动作", 
+            "name": "Newtv动作",
             "url": "http://ott.fj.chinamobile.com/PLTV/88888888/224/3221225879/index.m3u8"
         },
         {
-            "name": "Newtv明星", 
+            "name": "Newtv明星",
             "url": "http://ott.fj.chinamobile.com/PLTV/88888888/224/3221225893/index.m3u8"
         },
         {
-            "name": "Newtv家庭", 
+            "name": "Newtv家庭",
             "url": "http://ott.fj.chinamobile.com/PLTV/88888888/224/3221225882/index.m3u8"
         },
         {
-            "name": "Newtv海外", 
+            "name": "Newtv海外",
             "url": "http://ott.fj.chinamobile.com/PLTV/88888888/224/3221225881/index.m3u8"
         },
         {
-            "name": "Newtv军旅", 
+            "name": "Newtv军旅",
             "url": "http://ott.fj.chinamobile.com/PLTV/88888888/224/3221225887/index.m3u8"
         },
         {
-            "name": "Newtv大剧", 
+            "name": "Newtv大剧",
             "url": "http://ott.fj.chinamobile.com/PLTV/88888888/224/3221225889/index.m3u8"
         },
         {
-            "name": "Newtv纪录", 
+            "name": "Newtv纪录",
             "url": "http://ott.fj.chinamobile.com/PLTV/88888888/224/3221225888/index.m3u8"
         },
         {
-            "name": "CHC家庭影院", 
+            "name": "CHC家庭影院",
             "url": "rtmp://58.200.131.3:1935/livetv/chctv"
         },
         {
-            "name": "CHC高清", 
+            "name": "CHC高清",
             "url": "rtmp://58.200.131.3:1935/livetv/chchd"
         },
         {
-            "name": "CHC高清", 
+            "name": "CHC高清",
             "url": "rtmp://ivi.bupt.edu.cn/livetv/chchd"
         },
         {
-            "name": "CHC动作", 
+            "name": "CHC动作",
             "url": "http://hbmc.chinashadt.com:2739/live/dzdy.stream_360p/playlist.m3u8"
         },
         {
-            "name": "CHC动作", 
+            "name": "CHC动作",
             "url": "http://hbmc.chinashadt.com:2739/live/dzdy.stream_360p/chunklist_w1982553047.m3u8"
         },
         {
-            "name": "CHC动作", 
+            "name": "CHC动作",
             "url": "http://hbly.chinashadt.com:2046/live/1004.stream/chunklist_w841885902.m3u8"
-        },      
+        },
         {
-            "name": "CBN每日影院", 
+            "name": "CBN每日影院",
             "url": "http://42.48.60.248:8082/live/gqts-800k.m3u8"
         },
         {
-            "name": "使徒行者轮播", 
+            "name": "使徒行者轮播",
             "url": "http://flv3.quanmin.tv/live/3766_2142883618.m3u8"
         },
         {
-            "name": "007系列轮播", 
+            "name": "007系列轮播",
             "url": "http://flv3.quanmin.tv/live/3766_2015339572.m3u8"
         },
         {
-            "name": "康熙王朝轮播", 
+            "name": "康熙王朝轮播",
             "url": "http://flv3.quanmin.tv/live/3766_2067786610.m3u8"
-        },        
+        },
         {
-            "name": "电视剧轮播1", 
+            "name": "电视剧轮播1",
             "url": "http://flv3.quanmin.tv/live/3766_1543024488.m3u8"
         },
         {
-            "name": "电视剧轮播2", 
+            "name": "电视剧轮播2",
             "url": "http://flv3.quanmin.tv/live/3766_1515827050.m3u8"
         },
         {
-            "name": "电视剧轮播3", 
+            "name": "电视剧轮播3",
             "url": "http://flv3.quanmin.tv/live/3766_1534700896.m3u8"
         },
         {
-            "name": "倚天屠龙记(贾静雯版)轮播", 
+            "name": "倚天屠龙记(贾静雯版)轮播",
             "url": "http://flv3.quanmin.tv/live/3766_2076109674.m3u8"
         },
         {
-            "name": "乌龙闯情关轮播", 
+            "name": "乌龙闯情关轮播",
             "url": "http://flv3.quanmin.tv/live/3766_1543023976.m3u8"
         },
         {
-            "name": "少年包青天轮播", 
+            "name": "少年包青天轮播",
             "url": "http://flv3.quanmin.tv/live/3766_2136588070.m3u8"
         },
         {
-            "name": "机灵小不懂轮播", 
+            "name": "机灵小不懂轮播",
             "url": "http://flv3.quanmin.tv/live/3766_1524215162.m3u8"
         },
         {
-            "name": "小鱼儿与花无缺轮播", 
+            "name": "小鱼儿与花无缺轮播",
             "url": "http://flv3.quanmin.tv/live/3766_2059397482.m3u8"
         },
         {
-            "name": "粉红女郎轮播", 
+            "name": "粉红女郎轮播",
             "url": "http://flv3.quanmin.tv/live/3766_1540992880.m3u8"
         },
         {
-            "name": "十万个冷笑话轮播", 
+            "name": "十万个冷笑话轮播",
             "url": "http://aldirect.hls.huya.com/huyalive/94525224-2553630828-10967760892317401088-3049003140-10057-A-0-1_1200.m3u8"
         },
         {
-            "name": "蜡笔小新轮播", 
+            "name": "蜡笔小新轮播",
             "url": "http://aldirect.hls.huya.com/huyalive/94525224-2503194318-10751137731343024128-2847699212-10057-A-0-1_1200.m3u8"
-        }, 
+        },
         {
-            "name": "恶作剧之吻轮播", 
+            "name": "恶作剧之吻轮播",
             "url": "http://flv3.quanmin.tv/live/3766_2134506790.m3u8"
-        }  
+        },
+        {
+            "name": "特工",
+            "url": "http://www.lanjianbeer.com/mtv/dlcsfz/cibn.php?id=177"
+        },
+        {
+            "name": "赌博",
+            "url": "http://js.hls.huya.com/huyalive/29106097-2689446042-11551082794746642432-2789253870-10057-A-0-1_1200.m3u8"
+        },
+        {
+            "name": "鬼片+新片+经典",
+            "url": "http://dlhls.cdn.zhanqi.tv/zqlive/49858_wgGj1.m3u8"
+        },
+        {
+            "name": "刀光剑影",
+            "url": "http://www.lanjianbeer.com/mtv/dlcsfz/cibn.php?id=171"
+        },
+        {
+            "name": "古风美颜",
+            "url": "http://www.lanjianbeer.com/mtv/dlcsfz/cibn.php?id=94"
+        },
+        {
+            "name": "赌博",
+            "url": "http://js.hls.huya.com/huyalive/29106097-2689446042-11551082794746642432-2789253870-10057-A-0-1_1200.m3u8"
+        },
+        {
+            "name": "好莱坞",
+            "url": "http://tx.hls.huya.com/huyalive/30765679-2484192572-10669525853706125312-2847687498-10057-A-1521100607-1.m3u8"
+        },
+        {
+            "name": "哈利·波特系列",
+            "url": "http://www.lanjianbeer.com/mtv/dlcsfz/cibn.php?id=165"
+        },
+        {
+            "name": "加勒比海盗系列",
+            "url": "http://www.lanjianbeer.com/mtv/dlcsfz/cibn.php?id=181"
+        },
+        {
+            "name": "速度与激情",
+            "url": "http://berwe.fzszyx.com:22224/cibn/?t=berwe170"
+        },
+        {
+            "name": "CHC动作电影",
+            "url": "http://hbmc.chinashadt.com:2739/live/dzdy.stream_360p/playlist.m3u8"
+        },
+        {
+            "name": "CHC高清电影",
+            "url": "http://ivi.bupt.edu.cn/hls/chchd.m3u8"
+        },
+        {
+            "name": "风云剧场",
+            "url": "http://berwe.fzszyx.com:22224/cibn/?t=berwe152"
+        },
+        {
+            "name": "怀旧剧场",
+            "url": "http://berwe.fzszyx.com:22224/cibn/?t=berwe153"
+        },
+        {
+            "name": "都市剧场",
+            "url": "http://111.48.34.228/huaweicdn.hb.chinamobile.com/PLTV/88888888/224/3221225754/1.m3u8?icpid=88888888&from=1&hms_devid=1143"
+        },
+        {
+            "name": "欢笑剧场",
+            "url": "http://111.48.34.190/huaweicdn.hb.chinamobile.com/PLTV/88888888/224/3221225776/1.m3u8?icpid=88888888&from=1&hms_devid=1263"
+        },
+        {
+            "name": "每日影院",
+            "url": "http://42.48.60.248:8082/live/gqts-800k.m3u8"
+        },
+        {
+            "name": "星卫电影HD",
+            "url": "http://aldirect.hls.huya.com/huyalive/94525224-2460685313-10568562945082523648-2789274524-10057-A-0-1_1200.m3u8"
+        },
+        {
+            "name": "古装剧场",
+            "url": "http://223.110.243.155/PLTV/3/224/3221225527/index.m3u8"
+        },
+        {
+            "name": "动作电影",
+            "url": "http://223.110.243.155/PLTV/3/224/3221225529/index.m3u8"
+        },
+        {
+            "name": "明星大片",
+            "url": "http://223.110.243.155/PLTV/3/224/3221225535/index.m3u8"
+        },
+        {
+            "name": "精品大剧",
+            "url": "http://223.110.243.155/PLTV/3/224/3221225569/index.m3u8"
+        },
+        {
+            "name": "惊悚悬疑",
+            "url": "http://223.110.243.155/PLTV/3/224/3221225561/index.m3u8"
+        },
+        {
+            "name": "精品电影",
+            "url": "http://223.110.243.155/PLTV/3/224/3221225567/index.m3u8"
+        },
+        {
+            "name": "超级电影",
+            "url": "http://111.13.42.13/PLTV/88888888/224/3221226133/1.m3u8"
+        },
+        {
+            "name": "好莱坞中文",
+            "url": "http://10505.liveplay.myqcloud.com/live/10505_a1619dd9836811e791eae435c87f075e_550.m3u8"
+        },
+        {
+            "name": "警匪",
+            "url": "http://aldirect.hls.huya.com/huyalive/29169025-2686220598-11537229618251563008-2847687556-10057-A-1524043048-1_1200.m3u8"
+        },
+        {
+            "name": "犯罪悬疑",
+            "url": "http://ws4.streamhls.huya.com/huyalive/30765679-2480288304-10652757150331305984-2789274538-10057-A-1511757260-1_1200/playlist.m3u8"
+        },
+        {
+            "name": "香港四大天王",
+            "url": "http://www.lanjianbeer.com/mtv/dlcsfz/cibn.php?id=172"
+        },
+        {
+            "name": "怪兽",
+            "url": "http://www.lanjianbeer.com/mtv/dlcsfz/cibn.php?id=106"
+        },
+        {
+            "name": "科幻",
+            "url": "http://aldirect.hls.huya.com/huyalive/30765679-2499070088-10733424298371842048-2789274548-10057-A-1521102596-1_1200.m3u8"
+        },
+        {
+            "name": "漫威",
+            "url": "http://aldirect.hls.huya.com/huyalive/30765679-2504742278-10757786168918540288-3049003128-10057-A-0-1_1200.m3u8"
+        },
+        {
+            "name": "女神",
+            "url": "http://ws4.streamhls.huya.com/huyalive/30765679-2484192476-10669525441389264896-2789274564-10057-A-0-1_1200/playlist.m3u8"
+        },
+        {
+            "name": "怪物科幻",
+            "url": "http://js.hls.huya.com/huyalive/30765679-2478268764-10644083292078342144-2847699106-10057-A-0-1_1200.m3u8"
+        },
+        {
+            "name": "丧尸",
+            "url": "http://tx.hls.huya.com/huyalive/29106097-2689286606-11550398022340837376-2789274544-10057-A-0-1.m3u8"
+        },
+        {
+            "name": "战争",
+            "url": "http://aldirect.hls.huya.com/huyalive/28466698-2689659358-11551998979990355968-2789274580-10057-A-0-1_1200.m3u8"
+        },
+        {
+            "name": "印度",
+            "url": "http://www.lanjianbeer.com/mtv/dlcsfz/cibn.php?id=75"
+        },
+        {
+            "name": "搞笑",
+            "url": "http://www.lanjianbeer.com/mtv/dlcsfz/cibn.php?id=88"
+        },
+        {
+            "name": "超级英雄",
+            "url": "http://www.lanjianbeer.com/mtv/dlcsfz/cibn.php?id=48"
+        },
+        {
+            "name": "古风魔幻",
+            "url": "http://www.lanjianbeer.com/mtv/dlcsfz/cibn.php?id=94"
+        },
+        {
+            "name": "流金岁月",
+            "url": "http://berwe.fzszyx.com:22224/cibn/?t=berwe27"
+        },
+        {
+            "name": "院线大片",
+            "url": "http://www.lanjianbeer.com/mtv/dlcsfz/cibn.php?id=10"
+        },
+        {
+            "name": "电影综合",
+            "url": "http://berwe.fzszyx.com:22224/cibn/?t=berwe2"
+        },
+        {
+            "name": "微电影",
+            "url": "http://berwe.fzszyx.com:22224/cibn/?t=berwe25"
+        },
+        {
+            "name": "动作影院",
+            "url": "http://berwe.fzszyx.com:22224/cibn/?t=berwe9"
+        },
+        {
+            "name": "华语影院",
+            "url": "http://www.lanjianbeer.com/mtv/dlcsfz/cibn.php?id=39"
+        },
+        {
+            "name": "精品影院",
+            "url": "http://berwe.fzszyx.com:22224/cibn/?t=berwe4"
+        },
+        {
+            "name": "情感影院",
+            "url": "http://berwe.fzszyx.com:22224/cibn/?t=berwe6"
+        },
+        {
+            "name": "喜剧影院",
+            "url": "http://berwe.fzszyx.com:22224/cibn/?t=berwe3"
+        },
+        {
+            "name": "热播剧场",
+            "url": "http://berwe.fzszyx.com:22224/cibn/?t=berwe12"
+        },
+        {
+            "name": "经典剧场",
+            "url": "http://www.lanjianbeer.com/mtv/dlcsfz/cibn.php?id=15"
+        },
+        {
+            "name": "骄阳剧场",
+            "url": "http://www.lanjianbeer.com/mtv/dlcsfz/cibn.php?id=13"
+        },
+        {
+            "name": "欧美剧场",
+            "url": "http://www.lanjianbeer.com/mtv/dlcsfz/cibn.php?id=50"
+        }
     ]
 }
